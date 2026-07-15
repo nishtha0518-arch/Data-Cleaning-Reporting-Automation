@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Gender,Age,City,State,Region,Product_Category,Product_Name,Quantity,Unit_Price,Discount,Sales,Payment_Method,Rating
+10000,05-02-2025,C1000,Customer 1,Male,61,Delhi,Delhi State,North,Electronics,Keyboard,5,2106,5,10003.5,Cash,5
+10001,10-05-2025,C1001,Customer 2,Male,53,Bengaluru,Bengaluru State,South,Electronics,Laptop,2,1891,5,3592.9,Upi,5
+10002,10-02-2025,C1002,Customer 3,Female,39,Bengaluru,Bengaluru State,South,Clothing,Jeans,10,2378,0,23780,Credit Card,2
+10003,02-04-2025,C1003,Customer 4,Female,20,Mumbai,Mumbai State,West,Furniture,Chair,2,3212,0,6424,Debit Card,5
+10004,03-04-2025,C1004,Customer 5,Male,63,Delhi,Delhi State,North,Grocery,Rice,9,2501,20,18007.2,Cash,1
+10005,13-03-2025,C1005,Customer 6,Female,28,Mumbai,Mumbai State,West,Furniture,Chair,4,927,15,3151.8,Credit Card,3
+10006,04-03-2025,C1006,Customer 7,Female,42,Mumbai,Mumbai State,North,Furniture,Sofa,2,1501,20,2401.6,Credit Card,5
+10007,13-04-2025,C1007,Customer 8,Male,31,Mumbai,Mumbai State,West,Furniture,Chair,4,362,10,1303.2,Credit Card,2
+10008,05-02-2025,C1008,Customer 9,Female,65,Bengaluru,Bengaluru State,South,Grocery,Oil,8,1270,10,9144,Debit Card,5
+10009,24-01-2025,C1009,Customer 10,Male,27,Bengaluru,Bengaluru State,South,Furniture,Chair,3,4274,15,10898.7,Upi,4
+10010,16-05-2025,C1010,Customer 11,Male,61,Kolkata,Kolkata State,East,Electronics,Mouse,7,4981,15,29636.95,Cash,5
+10011,27-04-2025,C1011,Customer 12,Female,50,Lucknow,Lucknow State,North,Furniture,Chair,5,2516.5,5,17389.75,Upi,5
+10012,06-04-2025,C1012,Customer 13,Male,56,Delhi,Delhi State,North,Furniture,Sofa,9,1729,5,14782.95,Credit Card,4
+10013,03-03-2025,C1013,Customer 14,Male,23,Delhi,Delhi State,North,Electronics,Mouse,5,2061,0,10305,Debit Card,1
+10014,09-03-2025,C1014,Customer 15,Female,31,Kolkata,Kolkata State,East,Clothing,T-Shirt,8,4603,5,34982.8,Upi,3
+10015,05-03-2025,C1015,Customer 16,Male,39,Bengaluru,Bengaluru State,South,Furniture,Table,9,3798,0,34182,Cash,5
+10016,11-06-2025,C1016,Customer 17,Male,22,Kolkata,Kolkata State,East,Clothing,Jacket,4,158,0,632,Cash,3
+10017,19-05-2025,C1017,Customer 18,Female,33,Delhi,Delhi State,North,Sports,Football,5,4076,5,19361,Debit Card,4
+10018,16-04-2025,C1018,Customer 19,Male,61,Mumbai,Mumbai State,West,Electronics,Laptop,7,3002,15,17861.9,Cash,1
+10019,18-05-2025,C1019,Customer 20,Male,45,Bengaluru,Bengaluru State,South,Furniture,Chair,4,1669,5,6342.2,Upi,3
+10020,13-01-2025,C1020,Customer 21,Male,23,Bengaluru,Bengaluru State,South,Clothing,T-Shirt,8,4608,0,36864,Upi,2
+10021,12-02-2025,C1021,Customer 22,Male,42,Bengaluru,Bengaluru State,South,Grocery,Milk,4,3385,0,13540,Credit Card,4
+10022,18-02-2025,C1022,Customer 23,Male,21,Lucknow,Lucknow State,North,Grocery,Oil,9,4086,5,34935.3,Cash,3
+10023,10-02-2025,C1023,Customer 24,Male,29,Delhi,Delhi State,North,Electronics,Keyboard,8,4219,20,27001.6,Cash,5
+10024,29-05-2025,C1024,Customer 25,Male,57,Delhi,Delhi State,North,Clothing,Jeans,2,4766,5,9055.4,Cash,4
+10025,21-06-2025,C1025,Customer 26,Female,33,Kolkata,Kolkata State,East,Sports,Shoes,6,2236,5,12745.2,Credit Card,4
+10026,28-04-2025,C1026,Customer 27,Male,22,Mumbai,Mumbai State,West,Furniture,Table,6,694,0,4164,Upi,5
+10027,14-03-2025,C1027,Customer 28,Female,52,Lucknow,Lucknow State,North,Clothing,Jeans,2,2101,10,3781.8,Credit Card,5
+10028,04-02-2025,C1028,Customer 29,Male,24,Kolkata,Kolkata State,East,Electronics,Keyboard,9,2552,0,22968,Upi,3
+10029,10-05-2025,C1029,Customer 30,Female,21,Lucknow,Lucknow State,North,Sports,Football,6,1767,10,9541.8,Cash,4
+10030,11-02-2025,C1030,Customer 31,Female,53,Lucknow,Lucknow State,North,Electronics,Laptop,6,1171,10,6323.4,Debit Card,5
+10031,05-04-2025,C1031,Customer 32,Male,45,Delhi,Delhi State,North,Electronics,Laptop,3,4569,0,13707,Upi,1
+10032,20-06-2025,C1032,Customer 33,Female,53,Lucknow,Lucknow State,North,Furniture,Chair,6,1820,5,10374,Debit Card,5
+10033,15-02-2025,C1033,Customer 34,Female,44,Mumbai,Mumbai State,West,Clothing,T-Shirt,3,3477,0,10431,Upi,3
+10034,21-02-2025,C1034,Customer 35,Female,37,Mumbai,Mumbai State,West,Electronics,Mouse,1,3955,5,3757.25,Upi,2
+10035,13-03-2025,C1035,Customer 36,Female,61,Delhi,Delhi State,North,Clothing,Jeans,6,2382,0,14292,Credit Card,1
+10036,28-01-2025,C1036,Customer 37,Female,40,Delhi,Delhi State,North,Furniture,Chair,10,2274,0,22740,Credit Card,4
+10037,07-03-2025,C1037,Customer 38,Female,18,Kolkata,Kolkata State,East,Sports,Football,7,4823,5,32072.95,Cash,3
+10038,18-03-2025,C1038,Customer 39,Female,60,Bengaluru,Bengaluru State,South,Electronics,Keyboard,6,2671,0,16026,Debit Card,3
+10039,20-06-2025,C1039,Customer 40,Male,57,Bengaluru,Bengaluru State,South,Furniture,Sofa,3,1671,15,4261.05,Credit Card,4
+10040,29-05-2025,C1040,Customer 41,Female,47,Kolkata,Kolkata State,East,Electronics,Mouse,5,1821,15,7739.25,Debit Card,4
+10041,12-05-2025,C1041,Customer 42,Female,23,Mumbai,Mumbai State,West,Sports,Bat,3,794,10,2143.8,Upi,3
+10042,02-05-2025,C1042,Customer 43,Male,47,Mumbai,Mumbai State,West,Clothing,T-Shirt,1,478,5,454.1,Debit Card,5
+10043,17-06-2025,C1043,Customer 44,Male,24,Mumbai,Mumbai State,West,Grocery,Milk,7,2098,5,13951.7,Debit Card,3
+10044,01-02-2025,C1044,Customer 45,Male,47,Mumbai,Mumbai State,West,Sports,Bat,1,4666,5,4432.7,Credit Card,4
+10045,02-05-2025,C1045,Customer 46,Female,33,Kolkata,Kolkata State,East,Sports,Bat,9,3752,5,32079.6,Credit Card,5
+10046,02-03-2025,C1046,Customer 47,Female,38,Bengaluru,Bengaluru State,South,Clothing,Jeans,8,734,10,5284.8,Cash,2
+10047,17-04-2025,C1047,Customer 48,Female,52,Mumbai,Mumbai State,West,Clothing,Jeans,3,1852,0,5556,Debit Card,4
+10048,28-05-2025,C1048,Customer 49,Female,18,Delhi,Delhi State,North,Clothing,Jeans,7,4884,0,34188,Credit Card,3
+10049,26-02-2025,C1049,Customer 50,Female,49,Bengaluru,Bengaluru State,North,Grocery,Oil,9,1906,15,14580.9,Cash,4
+10050,09-06-2025,C1050,Customer 51,Male,43,Lucknow,Lucknow State,North,Grocery,Oil,3,3928,5,11194.8,Cash,1
+10051,08-04-2025,C1051,Customer 52,Male,47,Bengaluru,Bengaluru State,South,Clothing,Jeans,3,511,10,1379.7,Credit Card,3
+10052,05-01-2025,C1052,Customer 53,Male,40,Bengaluru,Bengaluru State,South,Furniture,Table,5,770,15,3272.5,Upi,1
+10053,09-02-2025,C1053,Customer 54,Male,48,Delhi,Delhi State,North,Electronics,Laptop,4,266,20,851.2,Cash,5
+10054,05-06-2025,C1054,Customer 55,Male,28,Mumbai,Mumbai State,West,Grocery,Oil,5,3121,5,14824.75,Credit Card,1
+10055,20-02-2025,C1055,Customer 56,Male,24,Kolkata,Kolkata State,East,Electronics,Mouse,10,3174,15,26979,Credit Card,3
+10056,19-06-2025,C1056,Customer 57,Male,50,Delhi,Delhi State,North,Sports,Football,6,4464,15,22766.4,Credit Card,1
+10057,09-02-2025,C1057,Customer 58,Male,64,Bengaluru,Bengaluru State,South,Grocery,Rice,7,3067,15,18248.65,Credit Card,5
+10058,24-03-2025,C1058,Customer 59,Male,-4,Kolkata,Kolkata State,East,Grocery,Milk,7,4953,10,31203.9,Debit Card,2
+10059,07-05-2025,C1059,Customer 60,Male,49,Bengaluru,Bengaluru State,South,Sports,Shoes,7,2855,0,19985,Upi,3
+10060,03-01-2025,C1060,Customer 61,Male,23,Lucknow,Lucknow State,North,Furniture,Table,10,2363,20,18904,Upi,4
+10061,05-01-2025,C1061,Customer 62,Female,32,Bengaluru,Bengaluru State,South,Sports,Football,8,4120,15,28016,Debit Card,2
+10062,30-03-2025,C1062,Customer 63,Female,40,Lucknow,Lucknow State,North,Sports,Bat,8,4634,20,29657.6,Debit Card,3
+10063,31-01-2025,C1063,Customer 64,Male,30,Lucknow,Lucknow State,North,Furniture,Chair,2,1677,10,3018.6,Upi,4
+10064,19-02-2025,C1064,Customer 65,Male,41,Lucknow,Lucknow State,North,Sports,Shoes,10,2418,0,24180,Upi,3
+10065,22-05-2025,C1065,Customer 66,Male,58,Delhi,Delhi State,North,Sports,Football,5,472,0,2360,Debit Card,1
+10066,29-03-2025,C1066,Customer 67,Male,34,Delhi,Delhi State,North,Sports,Bat,8,4021,15,27342.8,Debit Card,1
+10067,08-02-2025,C1067,Customer 68,Female,23,Delhi,Delhi State,North,Grocery,Milk,2,4826,0,9652,Upi,1
+10068,08-04-2025,C1068,Customer 69,Female,37,Kolkata,Kolkata State,East,Grocery,Oil,10,1948,20,15584,Debit Card,3
+10069,10-06-2025,C1069,Customer 70,Female,60,Kolkata,Kolkata State,East,Sports,Football,10,912,5,8664,Cash,2
+10070,15-04-2025,C1070,Customer 71,Female,36,Mumbai,Mumbai State,West,Clothing,Jacket,2,1382,0,2764,Cash,2
+10071,09-03-2025,C1071,Customer 72,Male,45,Lucknow,Lucknow State,North,Furniture,Sofa,8,683,5,5190.8,Cash,5
+10072,12-02-2025,C1072,Customer 73,Female,46,Mumbai,Mumbai State,West,Clothing,Jeans,3,684,0,2052,Cash,4
+10073,23-04-2025,C1073,Customer 74,Male,45,Lucknow,Lucknow State,North,Grocery,Milk,9,4523,15,34600.95,Credit Card,5
+10074,06-01-2025,C1074,Customer 75,Female,54,Lucknow,Lucknow State,North,Electronics,Laptop,4,4812,20,15398.4,Cash,2
+10075,30-05-2025,C1075,Customer 76,Female,23,Bengaluru,Bengaluru State,South,Sports,Shoes,8,2378,5,18072.8,Debit Card,3
+10076,16-04-2025,C1076,Customer 77,Female,36,Bengaluru,Bengaluru State,South,Furniture,Table,2,1417,10,2550.6,Debit Card,5
+10077,30-01-2025,C1077,Customer 78,Male,60,Delhi,Delhi State,North,Grocery,Rice,6,2167,10,11701.8,Debit Card,4
+10078,14-01-2025,C1078,Customer 79,Female,53,Delhi,Delhi State,North,Clothing,Jacket,6,4183,15,21333.3,Upi,3
+10079,21-03-2025,C1079,Customer 80,Male,53,Bengaluru,Bengaluru State,South,Grocery,Rice,1,2060,5,1957,Debit Card,1
+10080,16-03-2025,C1080,Customer 81,Female,44,Mumbai,Mumbai State,West,Electronics,Mouse,2,1361,15,2313.7,Debit Card,4
+10081,03-06-2025,C1081,Customer 82,Male,22,Mumbai,Mumbai State,West,Grocery,Oil,3,3242,5,9239.7,Credit Card,4
+10082,31-05-2025,C1082,Customer 83,Female,27,Lucknow,Lucknow State,North,Sports,Bat,1,2417,10,2175.3,Debit Card,5
+10083,27-04-2025,C1083,Customer 84,Male,62,Bengaluru,Bengaluru State,South,Furniture,Table,9,4551,15,34815.15,Upi,5
+10084,30-06-2025,C1084,Customer 85,Female,60,Bengaluru,Bengaluru State,South,Clothing,Jeans,1,2706,15,2300.1,Upi,4
+10085,23-04-2025,C1085,Customer 86,Female,18,Delhi,Delhi State,North,Clothing,Jacket,10,2819,0,28190,Upi,4
+10086,27-06-2025,C1086,Customer 87,Male,39,Mumbai,Mumbai State,West,Electronics,Mouse,5,2873,20,11492,Debit Card,3
+10087,11-06-2025,C1087,Customer 88,Female,32,Bengaluru,Bengaluru State,South,Sports,Football,10,660,5,6270,Cash,4
+10088,12-01-2025,C1088,Customer 89,Male,36,Delhi,Delhi State,North,Electronics,Mouse,3,2553,0,7659,Credit Card,3
+10089,24-06-2025,C1089,Customer 90,Male,29,Bengaluru,Bengaluru State,South,Clothing,T-Shirt,9,3475,20,25020,Cash,5
+10090,06-02-2025,C1090,Customer 91,Female,58,Bengaluru,Bengaluru State,South,Sports,Shoes,4,4176,20,13363.2,Credit Card,4
+10091,19-01-2025,C1091,Customer 92,Female,55,Lucknow,Lucknow State,North,Electronics,Mouse,5,4577,5,21740.75,Credit Card,4
+10092,28-01-2025,C1092,Customer 93,Female,54,Lucknow,Lucknow State,North,Grocery,Milk,4,3251,15,11053.4,Credit Card,5
+10093,25-05-2025,C1093,Customer 94,Male,56,Lucknow,Lucknow State,North,Furniture,Chair,7,2348,0,16436,Debit Card,3
+10094,06-03-2025,C1094,Customer 95,Male,58,Mumbai,Mumbai State,West,Sports,Bat,4,1657,20,5302.4,Cash,1
+10095,24-01-2025,C1095,Customer 96,Female,65,Lucknow,Lucknow State,North,Grocery,Rice,10,3088,5,29336,Debit Card,2
+10096,11-03-2025,C1096,Customer 97,Female,48,Mumbai,Mumbai State,West,Clothing,Jacket,6,4448,20,21350.4,Credit Card,3
+10097,23-05-2025,C1097,Customer 98,Male,43,Delhi,Delhi State,North,Grocery,Rice,3,1948,15,4967.4,Cash,3
+10098,08-04-2025,C1098,Customer 99,Female,24,Kolkata,Kolkata State,East,Electronics,Mouse,6,2247,20,10785.6,Upi,4
+10099,12-06-2025,C1099,Customer 100,Female,59,Delhi,Delhi State,North,Sports,Shoes,6,1913,0,11478,Debit Card,1
+10100,25-01-2025,C1100,Customer 101,Male,42,Mumbai,Mumbai State,West,Electronics,Laptop,5,4135,0,20675,Debit Card,3
+10101,06-05-2025,C1101,Customer 102,Female,35,Kolkata,Kolkata State,East,Grocery,Oil,3,3498,0,10494,Cash,3
+10102,25-06-2025,C1102,Customer 103,Female,21,Mumbai,Mumbai State,West,Grocery,Milk,4,3071,0,12284,Debit Card,3
+10103,06-01-2025,C1103,Customer 104,Female,33,Mumbai,Mumbai State,West,Electronics,Mouse,2,1837,10,2939.2,Upi,5
+10104,01-03-2025,C1104,Customer 105,Male,56,Mumbai,Mumbai State,North,Electronics,Keyboard,4,4903,5,18631.4,Cash,3
+10105,19-06-2025,C1105,Customer 106,Male,18,Mumbai,Mumbai State,West,Clothing,Jacket,5,1529,0,7645,Credit Card,2
+10106,02-02-2025,C1106,Customer 107,Female,51,Kolkata,Kolkata State,East,Furniture,Chair,3,2273,0,6819,Cash,1
+10107,26-04-2025,C1107,Customer 108,Male,57,Bengaluru,Bengaluru State,South,Grocery,Milk,9,4963,0,44667,Cash,5
+10108,13-04-2025,C1108,Customer 109,Male,49,Lucknow,Lucknow State,North,Grocery,Oil,1,598,15,508.3,Debit Card,1
+10109,12-03-2025,C1109,Customer 110,Female,42,Delhi,Delhi State,North,Furniture,Sofa,3,638,5,1818.3,Credit Card,4
+10110,25-02-2025,C1110,Customer 111,Female,32,Kolkata,Kolkata State,East,Sports,Bat,2,1037,20,1659.2,Debit Card,3
+10111,22-03-2025,C1111,Customer 112,Female,41,Bengaluru,Bengaluru State,South,Grocery,Milk,2,2660,15,4522,Upi,4
+10112,06-04-2025,C1112,Customer 113,Male,55,Delhi,Delhi State,North,Electronics,Laptop,2,3637,0,7274,Credit Card,1
+10113,03-06-2025,C1113,Customer 114,Female,24,Bengaluru,Bengaluru State,South,Furniture,Sofa,7,521,10,3282.3,Upi,2
+10114,30-01-2025,C1114,Customer 115,Male,45,Bengaluru,Bengaluru State,South,Clothing,T-Shirt,6,4656,10,25142.4,Cash,5
+10115,31-03-2025,C1115,Customer 116,Male,27,Lucknow,Lucknow State,North,Electronics,Laptop,5,2631,10,11839.5,Debit Card,1
+10116,18-04-2025,C1116,Customer 117,Female,28,Mumbai,Mumbai State,West,Electronics,Laptop,9,1862,15,14244.3,Credit Card,3
+10117,10-02-2025,C1117,Customer 118,Male,61,Lucknow,Lucknow State,North,Sports,Shoes,2,530,5,1007,Cash,3
+10118,11-03-2025,C1118,Customer 119,Male,40,Bengaluru,Bengaluru State,South,Grocery,Milk,10,3721,15,31628.5,Debit Card,1
+10119,26-02-2025,C1119,Customer 120,Male,18,Lucknow,Lucknow State,North,Sports,Bat,9,2626,0,23634,Upi,3
+10120,02-01-2025,C1120,Customer 121,Female,29,Mumbai,Mumbai State,West,Clothing,Jeans,5,2516.5,0,13935,Upi,4
+10121,12-04-2025,C1121,Customer 122,Male,45,Kolkata,Kolkata State,East,Clothing,Jacket,9,2516.5,0,27009,Cash,4
+10122,13-06-2025,C1122,Customer 123,Female,25,Delhi,Delhi State,North,Furniture,Sofa,7,4797,15,28542.15,Debit Card,1
+10123,22-04-2025,C1123,Customer 124,Male,45,Lucknow,Lucknow State,North,Clothing,Jacket,8,3064,0,24512,Debit Card,5
+10124,13-02-2025,C1124,Customer 125,Male,51,Delhi,Delhi State,North,Grocery,Milk,6,1915,10,10341,Upi,3
+10125,20-02-2025,C1125,Customer 126,Male,59,Lucknow,Lucknow State,North,Clothing,T-Shirt,2,1299,10,2338.2,Cash,2
+10126,14-06-2025,C1126,Customer 127,Female,58,Bengaluru,Bengaluru State,South,Grocery,Oil,10,3777,20,30216,Credit Card,2
+10127,01-06-2025,C1127,Customer 128,Female,50,Bengaluru,Bengaluru State,South,Electronics,Mouse,8,2580,10,18576,Cash,3
+10128,20-01-2025,C1128,Customer 129,Male,57,Bengaluru,Bengaluru State,South,Grocery,Rice,1,3120,10,2808,Debit Card,4
+10129,16-06-2025,C1129,Customer 130,Female,56,Kolkata,Kolkata State,East,Sports,Shoes,1,3784,20,3027.2,Debit Card,5
+10130,10-05-2025,C1130,Customer 131,Male,20,Mumbai,Mumbai State,West,Electronics,Mouse,2,2913,0,5826,Upi,4
+10131,06-04-2025,C1131,Customer 132,Female,44,Bengaluru,Bengaluru State,South,Sports,Shoes,10,1400,10,12600,Credit Card,5
+10132,23-06-2025,C1132,Customer 133,Female,34,Delhi,Delhi State,North,Furniture,Chair,6,874,20,4195.2,Upi,3
+10133,17-06-2025,C1133,Customer 134,Female,26,Delhi,Delhi State,North,Sports,Shoes,3,2965,10,8005.5,Cash,3
+10134,24-01-2025,C1134,Customer 135,Female,50,Kolkata,Kolkata State,East,Grocery,Oil,6,1146,20,5500.8,Credit Card,1
+10135,19-02-2025,C1135,Customer 136,Male,27,Lucknow,Lucknow State,North,Furniture,Chair,4,2899,15,9856.6,Cash,3
+10136,08-06-2025,C1136,Customer 137,Female,27,Delhi,Delhi State,North,Sports,Shoes,9,409,10,3312.9,Upi,2
+10137,04-04-2025,C1137,Customer 138,Male,46,Kolkata,Kolkata State,East,Clothing,Jacket,8,457,15,3107.6,Cash,4
+10138,05-04-2025,C1138,Customer 139,Female,47,Mumbai,Mumbai State,West,Sports,Football,5,3942,5,18724.5,Credit Card,4
+10139,05-02-2025,C1139,Customer 140,Male,59,Kolkata,Kolkata State,East,Sports,Bat,3,1735,20,4164,Debit Card,3
+10140,22-01-2025,C1140,Customer 141,Female,46,Kolkata,Kolkata State,East,Electronics,Keyboard,9,1121,10,9080.1,Upi,4
+10141,14-01-2025,C1141,Customer 142,Female,33,Delhi,Delhi State,North,Clothing,Jeans,6,318,15,1621.8,Debit Card,1
+10142,07-02-2025,C1142,Customer 143,Male,36,Lucknow,Lucknow State,North,Clothing,T-Shirt,6,911,10,4919.4,Debit Card,2
+10143,07-03-2025,C1143,Customer 144,Male,53,Bengaluru,Bengaluru State,South,Grocery,Oil,1,749,0,749,Debit Card,1
+10144,18-04-2025,C1144,Customer 145,Female,22,Lucknow,Lucknow State,North,Clothing,Jeans,2,491,5,932.9,Cash,4
+10145,06-02-2025,C1145,Customer 146,Female,18,Kolkata,Kolkata State,East,Sports,Football,9,4810,5,41125.5,Credit Card,2
+10146,18-01-2025,C1146,Customer 147,Male,42,Kolkata,Kolkata State,East,Grocery,Rice,2,4388,10,7898.4,Debit Card,1
+10147,30-03-2025,C1147,Customer 148,Male,55,Bengaluru,Bengaluru State,South,Furniture,Table,1,3025,0,3025,Credit Card,2
+10148,28-06-2025,C1148,Customer 149,Male,26,Delhi,Delhi State,North,Furniture,Sofa,6,1534,15,7823.4,Cash,4
+10149,22-03-2025,C1149,Customer 150,Female,52,Delhi,Delhi State,North,Furniture,Chair,1,1734,0,1734,Debit Card,3
+10150,11-03-2025,C1150,Customer 151,Female,45,Delhi,Delhi State,North,Clothing,Jeans,6,491,10,2651.4,Debit Card,4
+10151,13-05-2025,C1151,Customer 152,Male,64,Bengaluru,Bengaluru State,South,Furniture,Chair,8,4175,10,30060,Debit Card,1
+10152,27-01-2025,C1152,Customer 153,Female,60,Nan,Bengaluru State,South,Sports,Football,9,2506,10,20298.6,Credit Card,3
+10153,31-03-2025,C1153,Customer 154,Male,64,Bengaluru,Bengaluru State,South,Sports,Shoes,7,1465,15,8716.75,Credit Card,5
+10154,04-04-2025,C1154,Customer 155,Male,19,Bengaluru,Bengaluru State,South,Furniture,Sofa,1,714,15,606.9,Upi,5
+10155,03-04-2025,C1155,Customer 156,Male,56,Bengaluru,Bengaluru State,South,Electronics,Laptop,2,2033,10,3659.4,Upi,4
+10156,16-05-2025,C1156,Customer 157,Female,38,Lucknow,Lucknow State,North,Furniture,Table,2,4801,5,9121.9,Credit Card,2
+10157,10-04-2025,C1157,Customer 158,Male,34,Delhi,Delhi State,North,Electronics,Keyboard,3,4188,20,10051.2,Credit Card,4
+10158,04-02-2025,C1158,Customer 159,Female,29,Mumbai,Mumbai State,West,Sports,Bat,8,1739,0,13912,Debit Card,1
+10159,16-03-2025,C1159,Customer 160,Male,63,Lucknow,Lucknow State,North,Furniture,Sofa,2,4605,20,7368,Upi,3
+10160,07-05-2025,C1160,Customer 161,Female,53,Kolkata,Kolkata State,East,Clothing,T-Shirt,4,1237,5,4700.6,Credit Card,4
+10161,12-04-2025,C1161,Customer 162,Female,51,Kolkata,Kolkata State,East,Clothing,Jacket,2,638,10,1148.4,Debit Card,4
+10162,30-04-2025,C1162,Customer 163,Female,26,Kolkata,Kolkata State,East,Electronics,Laptop,6,707,15,3605.7,Upi,2
+10163,19-03-2025,C1163,Customer 164,Male,38,Bengaluru,Bengaluru State,South,Sports,Football,2,4344,5,8253.6,Upi,3
+10164,12-03-2025,C1164,Customer 165,Female,57,Kolkata,Kolkata State,East,Furniture,Chair,5,1708,20,6832,Cash,5
+10165,04-06-2025,C1165,Customer 166,Male,19,Mumbai,Mumbai State,West,Sports,Shoes,3,1502,20,3604.8,Cash,1
+10166,08-06-2025,C1166,Customer 167,Male,49,Kolkata,Kolkata State,East,Furniture,Sofa,4,4786,15,16272.4,Credit Card,3
+10167,19-01-2025,C1167,Customer 168,Male,28,Bengaluru,Bengaluru State,South,Clothing,Jacket,7,2536,15,15089.2,Debit Card,4
+10168,23-03-2025,C1168,Customer 169,Female,43,Bengaluru,Bengaluru State,South,Grocery,Rice,6,1276,10,6890.4,Upi,3
+10169,01-02-2025,C1169,Customer 170,Female,33,Kolkata,Kolkata State,East,Sports,Football,6,2080,15,10608,Upi,1
+10170,10-02-2025,C1170,Customer 171,Female,30,Nan,Delhi State,North,Furniture,Table,10,3525,10,33487.5,Upi,4
+10171,24-01-2025,C1171,Customer 172,Female,33,Kolkata,Kolkata State,East,Grocery,Milk,5,4174,0,20870,Upi,5
+10172,17-06-2025,C1172,Customer 173,Female,36,Lucknow,Lucknow State,North,Electronics,Laptop,5,4154,20,16616,Cash,1
+10173,12-01-2025,C1173,Customer 174,Male,54,Bengaluru,Bengaluru State,South,Clothing,Jeans,6,2516.5,10,18376.2,Upi,3
+10174,21-05-2025,C1174,Customer 175,Male,26,Kolkata,Kolkata State,East,Furniture,Chair,7,4230,15,25168.5,Cash,4
+10175,04-06-2025,C1175,Customer 176,Female,50,Lucknow,Lucknow State,North,Furniture,Sofa,6,1281,5,7301.7,Cash,1
+10176,27-04-2025,C1176,Customer 177,Male,38,Delhi,Delhi State,North,Clothing,Jacket,6,3980,20,19104,Credit Card,2
+10177,10-05-2025,C1177,Customer 178,Female,63,Bengaluru,Bengaluru State,South,Sports,Shoes,5,4963,10,22333.5,Credit Card,4
+10178,20-03-2025,C1178,Customer 179,Male,56,Delhi,Delhi State,North,Furniture,Table,2,3512,20,5619.2,Debit Card,3
+10179,13-02-2025,C1179,Customer 180,Female,27,Kolkata,Kolkata State,East,Sports,Football,1,4880,15,4148,Upi,1
+10180,18-04-2025,C1180,Customer 181,Female,-4,Kolkata,Kolkata State,East,Electronics,Laptop,1,3712,10,3340.8,Upi,4
+10181,23-02-2025,C1181,Customer 182,Female,60,Kolkata,Kolkata State,East,Sports,Bat,1,1231,20,984.8,Debit Card,5
+10182,20-05-2025,C1182,Customer 183,Female,57,Bengaluru,Bengaluru State,South,Furniture,Chair,8,4467,10,32162.4,Debit Card,2
+10183,15-03-2025,C1183,Customer 184,Male,62,Mumbai,Mumbai State,West,Furniture,Sofa,5,1942,10,8739,Debit Card,3
+10184,27-05-2025,C1184,Customer 185,Female,43,Bengaluru,Bengaluru State,South,Furniture,Sofa,5,2457,0,12285,Credit Card,2
+10185,17-06-2025,C1185,Customer 186,Female,31,Lucknow,Lucknow State,North,Electronics,Mouse,2,2937,15,4992.9,Upi,5
+10186,07-06-2025,C1186,Customer 187,Male,33,Lucknow,Lucknow State,North,Sports,Shoes,5,1224,0,6120,Cash,5
+10187,01-05-2025,C1187,Customer 188,Male,18,Mumbai,Mumbai State,West,Clothing,T-Shirt,2,3485,10,6273,Upi,4
+10188,15-03-2025,C1188,Customer 189,Male,23,Bengaluru,Bengaluru State,South,Grocery,Oil,4,2453,10,8830.8,Upi,5
+10189,07-05-2025,C1189,Customer 190,Female,20,Delhi,Delhi State,North,Clothing,Jeans,3,397,15,1012.35,Cash,3
+10190,14-06-2025,C1190,Customer 191,Female,26,Kolkata,Kolkata State,East,Sports,Football,6,2431,15,12398.1,Debit Card,3
+10191,17-02-2025,C1191,Customer 192,Female,36,Mumbai,Mumbai State,West,Electronics,Mouse,3,2516.5,10,10419.3,Upi,2
+10192,13-04-2025,C1192,Customer 193,Male,29,Kolkata,Kolkata State,East,Grocery,Milk,9,2786,0,25074,Upi,4
+10193,25-04-2025,C1193,Customer 194,Female,37,Lucknow,Lucknow State,North,Clothing,T-Shirt,5,3242,5,15399.5,Cash,3
+10194,10-02-2025,C1194,Customer 195,Female,62,Lucknow,Lucknow State,North,Clothing,T-Shirt,2,3912,10,7041.6,Cash,3
+10195,09-02-2025,C1195,Customer 196,Female,44,Lucknow,Lucknow State,North,Sports,Football,4,1194,15,4059.6,Debit Card,5
+10196,25-04-2025,C1196,Customer 197,Female,22,Mumbai,Mumbai State,West,Clothing,Jacket,10,770,20,6160,Cash,1
+10197,12-02-2025,C1197,Customer 198,Female,25,Kolkata,Kolkata State,East,Sports,Football,10,4496,5,42712,Upi,5
+10198,03-02-2025,C1198,Customer 199,Female,47,Bengaluru,Bengaluru State,South,Electronics,Keyboard,8,555,15,3774,Cash,5
+10199,01-01-2025,C1199,Customer 200,Male,-4,Bengaluru,Bengaluru State,South,Furniture,Sofa,1,3343,10,3008.7,Cash,1
+10200,18-01-2025,C1200,Customer 201,Male,36,Bengaluru,Bengaluru State,South,Furniture,Sofa,2,4533,0,9066,Debit Card,2
+10201,07-04-2025,C1201,Customer 202,Male,59,Mumbai,Mumbai State,West,Grocery,Milk,7,3774,15,22455.3,Credit Card,1
+10202,01-01-2025,C1202,Customer 203,Female,47,Mumbai,Mumbai State,West,Sports,Bat,9,1143,5,9772.65,Debit Card,5
+10203,12-03-2025,C1203,Customer 204,Male,20,Bengaluru,Bengaluru State,South,Clothing,T-Shirt,8,2935,5,22306,Debit Card,3
+10204,09-01-2025,C1204,Customer 205,Male,33,Delhi,Delhi State,North,Clothing,T-Shirt,2,926,20,1481.6,Cash,4
+10205,09-05-2025,C1205,Customer 206,Male,64,Bengaluru,Bengaluru State,South,Clothing,Jacket,4,562,5,2135.6,Credit Card,5
+10206,26-02-2025,C1206,Customer 207,Female,35,Kolkata,Kolkata State,East,Furniture,Chair,5,1273,20,5092,Cash,5
+10207,13-01-2025,C1207,Customer 208,Female,51,Kolkata,Kolkata State,East,Clothing,Jacket,7,4653,15,27685.35,Credit Card,3
+10208,02-05-2025,C1208,Customer 209,Male,37,Bengaluru,Bengaluru State,South,Clothing,Jeans,7,1606,20,8993.6,Upi,4
+10209,04-02-2025,C1209,Customer 210,Male,34,Delhi,Delhi State,North,Sports,Bat,7,4665,20,26124,Upi,3
+10210,14-01-2025,C1210,Customer 211,Female,61,Delhi,Delhi State,North,Grocery,Milk,2,4487,5,8525.3,Cash,1
+10211,23-02-2025,C1211,Customer 212,Female,18,Mumbai,Mumbai State,West,Sports,Shoes,9,1877,15,14359.05,Upi,2
+10212,03-03-2025,C1212,Customer 213,Female,36,Delhi,Delhi State,North,Grocery,Rice,10,1775,15,15087.5,Debit Card,4
+10213,08-05-2025,C1213,Customer 214,Male,64,Kolkata,Kolkata State,East,Furniture,Table,5,3046,20,12184,Debit Card,3
+10214,26-02-2025,C1214,Customer 215,Male,19,Mumbai,Mumbai State,West,Furniture,Table,7,474,20,2654.4,Credit Card,5
+10215,20-02-2025,C1215,Customer 216,Male,42,Kolkata,Kolkata State,East,Sports,Shoes,7,2518,5,16744.7,Upi,4
+10216,13-02-2025,C1216,Customer 217,Female,28,Kolkata,Kolkata State,East,Furniture,Table,8,4118,15,28002.4,Upi,5
+10217,20-01-2025,C1217,Customer 218,Male,18,Bengaluru,Bengaluru State,South,Clothing,Jacket,1,4392,0,4392,Debit Card,2
+10218,10-05-2025,C1218,Customer 219,Female,21,Mumbai,Mumbai State,West,Electronics,Keyboard,3,174,5,495.9,Debit Card,4
+10219,05-01-2025,C1219,Customer 220,Female,52,Delhi,Delhi State,North,Electronics,Keyboard,9,3469,0,31221,Credit Card,1
+10220,08-02-2025,C1220,Customer 221,Male,57,Kolkata,Kolkata State,East,Grocery,Rice,2,889,20,1422.4,Credit Card,3
+10221,25-05-2025,C1221,Customer 222,Male,37,Lucknow,Lucknow State,North,Grocery,Rice,6,3426,15,17472.6,Cash,1
+10222,15-01-2025,C1222,Customer 223,Male,62,Delhi,Delhi State,North,Grocery,Milk,7,4627,15,27530.65,Upi,1
+10223,16-05-2025,C1223,Customer 224,Male,31,Bengaluru,Bengaluru State,South,Grocery,Oil,6,4735,0,28410,Debit Card,3
+10224,18-06-2025,C1224,Customer 225,Male,38,Delhi,Delhi State,North,Electronics,Keyboard,5,4548,20,18192,Cash,2
+10225,11-02-2025,C1225,Customer 226,Male,54,Kolkata,Kolkata State,East,Clothing,Jacket,7,730,10,4599,Debit Card,5
+10226,30-03-2025,C1226,Customer 227,Male,45,Lucknow,Lucknow State,North,Grocery,Oil,3,742,20,1780.8,Upi,1
+10227,08-01-2025,C1227,Customer 228,Female,46,Lucknow,Lucknow State,North,Sports,Shoes,10,3349,10,30141,Debit Card,2
+10228,19-06-2025,C1228,Customer 229,Male,57,Lucknow,Lucknow State,North,Sports,Bat,7,1621,20,9077.6,Credit Card,2
+10229,10-04-2025,C1229,Customer 230,Female,24,Delhi,Delhi State,North,Electronics,Mouse,3,3212,5,9154.2,Cash,1
+10230,23-01-2025,C1230,Customer 231,Female,46,Lucknow,Lucknow State,North,Grocery,Milk,5,2516.5,5,4450.75,Debit Card,1
+10231,03-06-2025,C1231,Customer 232,Female,18,Delhi,Delhi State,North,Electronics,Mouse,9,862,20,6206.4,Credit Card,4
+10232,14-05-2025,C1232,Customer 233,Female,28,Bengaluru,Bengaluru State,South,Electronics,Keyboard,9,2088,20,15033.6,Upi,3
+10233,22-04-2025,C1233,Customer 234,Female,37,Lucknow,Lucknow State,North,Furniture,Table,3,618,5,1761.3,Debit Card,1
+10234,20-02-2025,C1234,Customer 235,Male,26,Lucknow,Lucknow State,North,Furniture,Chair,8,4964,20,31769.6,Credit Card,1
+10235,27-03-2025,C1235,Customer 236,Male,37,Bengaluru,Bengaluru State,South,Furniture,Sofa,7,2799,15,16654.05,Credit Card,5
+10236,16-03-2025,C1236,Customer 237,Female,54,Mumbai,Mumbai State,West,Grocery,Milk,3,3362,10,9077.4,Upi,3
+10237,21-02-2025,C1237,Customer 238,Male,61,Bengaluru,Bengaluru State,South,Furniture,Table,6,1032,20,4953.6,Cash,4
+10238,05-02-2025,C1238,Customer 239,Female,33,Mumbai,Mumbai State,West,Grocery,Milk,2,3451,15,5866.7,Credit Card,2
+10239,30-05-2025,C1239,Customer 240,Female,52,Bengaluru,Bengaluru State,South,Grocery,Rice,8,4998,15,33986.4,Cash,3
+10240,18-06-2025,C1240,Customer 241,Female,28,Kolkata,Kolkata State,East,Sports,Shoes,2,995,5,1890.5,Cash,5
+10241,08-03-2025,C1241,Customer 242,Male,46,Bengaluru,Bengaluru State,South,Furniture,Table,2,186,0,372,Credit Card,4
+10242,07-01-2025,C1242,Customer 243,Male,36,Bengaluru,Bengaluru State,North,Sports,Shoes,9,1334,10,10805.4,Debit Card,1
+10243,22-02-2025,C1243,Customer 244,Female,40,Delhi,Delhi State,North,Clothing,Jeans,5,2910,15,12367.5,Debit Card,1
+10244,30-01-2025,C1244,Customer 245,Female,59,Bengaluru,Bengaluru State,South,Grocery,Milk,2,2559,10,5118,Cash,2
+10245,24-05-2025,C1245,Customer 246,Female,32,Mumbai,Mumbai State,West,Sports,Football,9,1411,10,11429.1,Debit Card,2
+10246,01-06-2025,C1246,Customer 247,Female,18,Mumbai,Mumbai State,West,Grocery,Milk,1,1716,15,1458.6,Upi,2
+10247,04-04-2025,C1247,Customer 248,Male,47,Nan,Lucknow State,North,Electronics,Keyboard,2,4498,10,8546.2,Cash,3
+10248,06-06-2025,C1248,Customer 249,Male,40,Bengaluru,Bengaluru State,South,Sports,Shoes,6,4990,15,25449,Credit Card,4
+10249,22-06-2025,C1249,Customer 250,Female,25,Kolkata,Kolkata State,East,Clothing,Jacket,5,4934,0,24670,Upi,3
+10250,18-04-2025,C1250,Customer 251,Male,54,Delhi,Delhi State,North,Clothing,Jeans,3,4284,15,10924.2,Debit Card,4
+10251,12-02-2025,C1251,Customer 252,Female,26,Mumbai,Mumbai State,West,Grocery,Oil,9,1519,20,10936.8,Upi,3
+10252,04-02-2025,C1252,Customer 253,Female,53,Bengaluru,Bengaluru State,South,Sports,Football,6,178,15,907.8,Debit Card,4
+10253,22-01-2025,C1253,Customer 254,Male,32,Bengaluru,Bengaluru State,South,Grocery,Oil,8,4103,10,31182.8,Credit Card,1
+10254,25-05-2025,C1254,Customer 255,Female,53,Lucknow,Lucknow State,North,Clothing,Jacket,5,1477,15,6277.25,Cash,5
+10255,23-04-2025,C1255,Customer 256,Male,45,Delhi,Delhi State,North,Furniture,Sofa,6,4540,0,27240,Cash,2
+10256,23-04-2025,C1256,Customer 257,Male,31,Lucknow,Lucknow State,North,Electronics,Mouse,5,2955,0,14775,Credit Card,5
+10257,16-01-2025,C1257,Customer 258,Female,52,Bengaluru,Bengaluru State,South,Clothing,Jacket,3,1792,5,5107.2,Credit Card,3
+10258,10-03-2025,C1258,Customer 259,Male,26,Kolkata,Kolkata State,East,Clothing,Jeans,5,2470,20,9880,Debit Card,1
+10259,24-03-2025,C1259,Customer 260,Female,49,Lucknow,Lucknow State,North,Clothing,Jacket,3,2145,5,6113.25,Upi,5
+10260,14-04-2025,C1260,Customer 261,Female,62,Lucknow,Lucknow State,North,Grocery,Milk,8,718,0,5744,Credit Card,3
+10261,12-06-2025,C1261,Customer 262,Female,22,Bengaluru,Bengaluru State,South,Furniture,Sofa,1,863,15,733.55,Debit Card,2
+10262,28-03-2025,C1262,Customer 263,Male,54,Bengaluru,Bengaluru State,North,Clothing,Jeans,5,2744,10,12348,Debit Card,3
+10263,10-02-2025,C1263,Customer 264,Female,18,Delhi,Delhi State,North,Electronics,Laptop,8,233,0,1864,Debit Card,3
+10264,06-03-2025,C1264,Customer 265,Female,60,Mumbai,Mumbai State,West,Furniture,Chair,5,864,10,3888,Upi,1
+10265,30-06-2025,C1265,Customer 266,Male,31,Bengaluru,Bengaluru State,South,Furniture,Sofa,4,3616,10,14464,Debit Card,1
+10266,03-01-2025,C1266,Customer 267,Female,-4,Mumbai,Mumbai State,West,Sports,Football,9,3745,0,33705,Debit Card,2
+10267,27-01-2025,C1267,Customer 268,Female,37,Bengaluru,Bengaluru State,South,Electronics,Laptop,7,831,0,5817,Upi,4
+10268,06-06-2025,C1268,Customer 269,Male,46,Mumbai,Mumbai State,West,Clothing,T-Shirt,9,4714,0,42426,Credit Card,2
+10269,26-01-2025,C1269,Customer 270,Male,55,Mumbai,Mumbai State,West,Grocery,Oil,8,1879,0,15032,Debit Card,3
+10270,05-03-2025,C1270,Customer 271,Female,62,Bengaluru,Bengaluru State,South,Furniture,Chair,4,2368,0,9472,Cash,3
+10271,17-03-2025,C1271,Customer 272,Male,33,Mumbai,Mumbai State,West,Sports,Shoes,9,1645,15,12584.25,Debit Card,4
+10272,04-01-2025,C1272,Customer 273,Female,26,Delhi,Delhi State,North,Clothing,Jeans,10,681,20,5448,Cash,5
+10273,05-01-2025,C1273,Customer 274,Male,18,Bengaluru,Bengaluru State,South,Furniture,Sofa,3,3958,0,11874,Credit Card,2
+10274,17-04-2025,C1274,Customer 275,Female,23,Delhi,Delhi State,North,Electronics,Mouse,9,2446,20,17611.2,Upi,3
+10275,18-05-2025,C1275,Customer 276,Female,55,Delhi,Delhi State,North,Furniture,Chair,9,1764,5,15082.2,Cash,3
+10276,30-01-2025,C1276,Customer 277,Male,37,Bengaluru,Bengaluru State,South,Clothing,T-Shirt,4,806,15,2740.4,Upi,1
+10277,30-03-2025,C1277,Customer 278,Female,28,Delhi,Delhi State,North,Clothing,Jacket,1,1442,15,1225.7,Credit Card,2
+10278,15-05-2025,C1278,Customer 279,Female,63,Lucknow,Lucknow State,North,Electronics,Laptop,6,3617,10,19531.8,Cash,4
+10279,12-02-2025,C1279,Customer 280,Male,34,Bengaluru,Bengaluru State,South,Sports,Bat,1,4192,20,3353.6,Cash,5
+10280,04-01-2025,C1280,Customer 281,Male,48,Delhi,Delhi State,North,Clothing,Jacket,9,121,0,1089,Credit Card,4
+10281,24-03-2025,C1281,Customer 282,Female,64,Mumbai,Mumbai State,West,Clothing,T-Shirt,9,3535,5,30224.25,Credit Card,3
+10282,15-02-2025,C1282,Customer 283,Male,43,Delhi,Delhi State,North,Sports,Bat,2,4212,0,8424,Cash,4
+10283,03-01-2025,C1283,Customer 284,Male,36,Lucknow,Lucknow State,North,Furniture,Table,2,4630,15,7871,Credit Card,5
+10284,20-05-2025,C1284,Customer 285,Male,18,Mumbai,Mumbai State,West,Grocery,Milk,10,4141,5,39339.5,Debit Card,1
+10285,18-06-2025,C1285,Customer 286,Female,24,Mumbai,Mumbai State,West,Sports,Bat,1,2844,0,2844,Upi,5
+10286,24-01-2025,C1286,Customer 287,Male,51,Mumbai,Mumbai State,West,Grocery,Milk,1,1266,10,1139.4,Cash,3
+10287,13-06-2025,C1287,Customer 288,Male,55,Bengaluru,Bengaluru State,South,Electronics,Keyboard,2,4240,5,8056,Cash,4
+10288,29-06-2025,C1288,Customer 289,Female,38,Mumbai,Mumbai State,West,Clothing,Jeans,5,2680,15,11390,Debit Card,3
+10289,09-02-2025,C1289,Customer 290,Male,46,Mumbai,Mumbai State,West,Electronics,Laptop,3,4889,0,14667,Debit Card,3
+10290,20-03-2025,C1290,Customer 291,Female,25,Bengaluru,Bengaluru State,South,Electronics,Keyboard,6,1800,15,9180,Cash,2
+10291,24-01-2025,C1291,Customer 292,Male,40,Lucknow,Lucknow State,North,Sports,Football,4,2785,5,10583,Debit Card,5
+10292,26-04-2025,C1292,Customer 293,Male,24,Delhi,Delhi State,North,Furniture,Table,3,354,15,902.7,Debit Card,3
+10293,20-02-2025,C1293,Customer 294,Female,61,Mumbai,Mumbai State,West,Electronics,Laptop,1,1920,5,1824,Cash,5
+10294,15-06-2025,C1294,Customer 295,Male,23,Kolkata,Kolkata State,East,Furniture,Chair,1,628,5,596.6,Credit Card,1
+10295,12-04-2025,C1295,Customer 296,Male,42,Delhi,Delhi State,North,Grocery,Rice,3,4801,15,12242.55,Cash,2
+10296,08-02-2025,C1296,Customer 297,Male,59,Lucknow,Lucknow State,North,Clothing,T-Shirt,5,2392,15,10166,Credit Card,4
+10297,09-04-2025,C1297,Customer 298,Female,30,Bengaluru,Bengaluru State,South,Sports,Bat,1,818,10,736.2,Upi,5
+10298,05-05-2025,C1298,Customer 299,Female,42,Delhi,Delhi State,North,Grocery,Oil,6,4029,20,19339.2,Credit Card,2
+10299,15-01-2025,C1299,Customer 300,Female,55,Delhi,Delhi State,North,Furniture,Sofa,4,340,10,1224,Upi,2
+10300,15-01-2025,C1300,Customer 301,Female,40,Nan,Delhi State,North,Clothing,Jacket,4,2283,10,7305.6,Upi,2
+10301,30-06-2025,C1301,Customer 302,Female,54,Mumbai,Mumbai State,West,Sports,Bat,6,4946,0,29676,Upi,5
+10302,10-01-2025,C1302,Customer 303,Male,32,Mumbai,Mumbai State,West,Grocery,Oil,5,1538,15,6536.5,Upi,1
+10303,29-03-2025,C1303,Customer 304,Male,38,Kolkata,Kolkata State,East,Grocery,Rice,6,1750,5,9975,Cash,1
+10304,04-04-2025,C1304,Customer 305,Female,63,Mumbai,Mumbai State,West,Sports,Shoes,3,1008,20,2419.2,Debit Card,5
+10305,22-04-2025,C1305,Customer 306,Female,59,Delhi,Delhi State,North,Furniture,Table,6,1217,5,6936.9,Credit Card,2
+10306,07-04-2025,C1306,Customer 307,Female,26,Kolkata,Kolkata State,East,Sports,Bat,4,4924,5,18711.2,Upi,1
+10307,23-03-2025,C1307,Customer 308,Male,58,Kolkata,Kolkata State,East,Grocery,Oil,1,1591,20,1272.8,Cash,4
+10308,23-03-2025,C1308,Customer 309,Male,63,Mumbai,Mumbai State,West,Furniture,Sofa,2,2049,10,3688.2,Credit Card,4
+10309,07-03-2025,C1309,Customer 310,Male,21,Delhi,Delhi State,North,Furniture,Chair,4,655,10,2358,Debit Card,4
+10310,20-05-2025,C1310,Customer 311,Male,48,Bengaluru,Bengaluru State,South,Clothing,Jeans,8,3202,10,23054.4,Upi,2
+10311,08-03-2025,C1311,Customer 312,Male,39,Bengaluru,Bengaluru State,South,Electronics,Laptop,5,264,10,1188,Upi,4
+10312,07-06-2025,C1312,Customer 313,Male,45,Mumbai,Mumbai State,West,Electronics,Keyboard,2,2868,20,4588.8,Upi,5
+10313,18-02-2025,C1313,Customer 314,Female,60,Bengaluru,Bengaluru State,South,Clothing,T-Shirt,2,2812,5,5342.8,Credit Card,3
+10314,06-05-2025,C1314,Customer 315,Male,41,Mumbai,Mumbai State,West,Electronics,Laptop,7,4783,20,26784.8,Cash,4
+10315,25-01-2025,C1315,Customer 316,Male,28,Delhi,Delhi State,North,Furniture,Sofa,10,4034,5,38323,Credit Card,1
+10316,19-06-2025,C1316,Customer 317,Male,59,Bengaluru,Bengaluru State,South,Electronics,Mouse,7,3957,15,23544.15,Debit Card,2
+10317,09-03-2025,C1317,Customer 318,Female,34,Lucknow,Lucknow State,North,Grocery,Milk,3,3751,0,11253,Upi,3
+10318,19-05-2025,C1318,Customer 319,Male,53,Kolkata,Kolkata State,North,Electronics,Laptop,2,802,10,1443.6,Cash,4
+10319,02-05-2025,C1319,Customer 320,Male,43,Kolkata,Kolkata State,East,Grocery,Oil,8,4791,5,36411.6,Cash,5
+10320,25-04-2025,C1320,Customer 321,Male,31,Kolkata,Kolkata State,East,Sports,Shoes,10,1307,0,13070,Upi,2
+10321,02-06-2025,C1321,Customer 322,Female,64,Delhi,Delhi State,North,Grocery,Rice,7,1754,5,11664.1,Cash,1
+10322,14-05-2025,C1322,Customer 323,Male,62,Bengaluru,Bengaluru State,South,Sports,Bat,9,2771,10,22445.1,Debit Card,1
+10323,26-01-2025,C1323,Customer 324,Male,36,Bengaluru,Bengaluru State,South,Clothing,T-Shirt,10,4916,20,39328,Credit Card,4
+10324,02-05-2025,C1324,Customer 325,Male,35,Lucknow,Lucknow State,North,Grocery,Oil,8,4786,20,30630.4,Debit Card,2
+10325,26-03-2025,C1325,Customer 326,Male,21,Kolkata,Kolkata State,East,Sports,Shoes,7,417,15,2481.15,Debit Card,3
+10326,06-05-2025,C1326,Customer 327,Male,32,Lucknow,Lucknow State,North,Electronics,Mouse,5,2647,10,11911.5,Upi,3
+10327,24-04-2025,C1327,Customer 328,Female,65,Bengaluru,Bengaluru State,South,Furniture,Table,7,831,10,5526.15,Debit Card,5
+10328,10-05-2025,C1328,Customer 329,Male,51,Lucknow,Lucknow State,North,Electronics,Keyboard,3,637,10,1719.9,Cash,2
+10329,13-01-2025,C1329,Customer 330,Male,35,Mumbai,Mumbai State,West,Clothing,T-Shirt,4,370,15,1258,Credit Card,4
+10330,06-04-2025,C1330,Customer 331,Female,29,Kolkata,Kolkata State,East,Grocery,Oil,2,350,5,665,Debit Card,5
+10331,14-03-2025,C1331,Customer 332,Female,21,Kolkata,Kolkata State,East,Furniture,Table,3,2218,0,6654,Upi,5
+10332,16-06-2025,C1332,Customer 333,Male,61,Mumbai,Mumbai State,West,Clothing,Jacket,4,1793,10,6454.8,Cash,4
+10333,05-06-2025,C1333,Customer 334,Female,45,Mumbai,Mumbai State,West,Clothing,Jacket,1,1933,10,1739.7,Debit Card,3
+10334,09-06-2025,C1334,Customer 335,Male,18,Bengaluru,Bengaluru State,South,Furniture,Chair,8,2575,20,16480,Credit Card,5
+10335,17-01-2025,C1335,Customer 336,Female,58,Kolkata,Kolkata State,East,Sports,Bat,5,985,15,4186.25,Credit Card,3
+10336,15-01-2025,C1336,Customer 337,Female,60,Lucknow,Lucknow State,North,Furniture,Chair,3,4337,5,12360.45,Credit Card,2
+10337,10-04-2025,C1337,Customer 338,Male,55,Delhi,Delhi State,North,Grocery,Milk,5,3528,15,14994,Upi,3
+10338,18-03-2025,C1338,Customer 339,Male,36,Mumbai,Mumbai State,West,Sports,Shoes,8,3036,20,19430.4,Cash,4
+10339,17-06-2025,C1339,Customer 340,Male,40,Mumbai,Mumbai State,West,Furniture,Sofa,9,1599,10,12951.9,Upi,3
+10340,29-04-2025,C1340,Customer 341,Female,21,Bengaluru,Bengaluru State,South,Furniture,Table,5,4896,10,22032,Cash,4
+10341,16-04-2025,C1341,Customer 342,Male,26,Mumbai,Mumbai State,West,Sports,Football,7,4440,10,27972,Upi,3
+10342,21-01-2025,C1342,Customer 343,Female,58,Bengaluru,Bengaluru State,South,Sports,Bat,3,2691,5,7669.35,Upi,3
+10343,28-05-2025,C1343,Customer 344,Female,23,Delhi,Delhi State,North,Electronics,Mouse,5,1815,5,8621.25,Upi,5
+10344,02-01-2025,C1344,Customer 345,Male,64,Bengaluru,Bengaluru State,South,Grocery,Milk,7,4010,15,23859.5,Credit Card,1
+10345,27-02-2025,C1345,Customer 346,Female,37,Lucknow,Lucknow State,North,Sports,Football,1,133,5,126.35,Upi,1
+10346,12-01-2025,C1346,Customer 347,Female,47,Bengaluru,Bengaluru State,South,Sports,Shoes,5,1468,0,7340,Credit Card,4
+10347,14-04-2025,C1347,Customer 348,Male,32,Mumbai,Mumbai State,West,Furniture,Table,6,1643,5,9365.1,Upi,2
+10348,16-06-2025,C1348,Customer 349,Female,58,Delhi,Delhi State,North,Sports,Shoes,3,1108,10,2991.6,Credit Card,5
+10349,13-01-2025,C1349,Customer 350,Male,44,Kolkata,Kolkata State,East,Electronics,Keyboard,1,985,0,985,Debit Card,4
+10350,27-06-2025,C1350,Customer 351,Male,37,Delhi,Delhi State,North,Sports,Bat,8,1354,5,10290.4,Debit Card,1
+10351,27-01-2025,C1351,Customer 352,Male,36,Kolkata,Kolkata State,East,Furniture,Sofa,10,1223,15,10395.5,Cash,1
+10352,21-02-2025,C1352,Customer 353,Female,36,Bengaluru,Bengaluru State,South,Clothing,Jacket,4,2254,20,7212.8,Upi,1
+10353,01-01-2025,C1353,Customer 354,Male,25,Kolkata,Kolkata State,East,Grocery,Rice,8,2808,5,21340.8,Debit Card,2
+10354,27-04-2025,C1354,Customer 355,Female,47,Delhi,Delhi State,North,Sports,Football,2,2196,5,4172.4,Cash,1
+10355,30-01-2025,C1355,Customer 356,Male,18,Mumbai,Mumbai State,West,Electronics,Mouse,6,2661,15,13571.1,Upi,2
+10356,06-04-2025,C1356,Customer 357,Male,25,Lucknow,Lucknow State,North,Furniture,Table,10,2297,0,22970,Debit Card,4
+10357,29-01-2025,C1357,Customer 358,Male,28,Bengaluru,Bengaluru State,South,Furniture,Table,8,3554,5,27010.4,Cash,4
+10358,08-04-2025,C1358,Customer 359,Male,61,Kolkata,Kolkata State,East,Grocery,Oil,8,1584,20,10137.6,Upi,4
+10359,08-03-2025,C1359,Customer 360,Female,18,Bengaluru,Bengaluru State,South,Electronics,Mouse,8,476,0,3808,Upi,3
+10360,19-06-2025,C1360,Customer 361,Male,48,Kolkata,Kolkata State,East,Sports,Shoes,10,880,15,7480,Credit Card,4
+10361,10-05-2025,C1361,Customer 362,Female,28,Mumbai,Mumbai State,West,Sports,Shoes,1,195,5,185.25,Cash,4
+10362,27-02-2025,C1362,Customer 363,Female,43,Lucknow,Lucknow State,North,Clothing,Jeans,5,512,20,2048,Upi,1
+10363,25-04-2025,C1363,Customer 364,Male,49,Bengaluru,Bengaluru State,South,Grocery,Oil,8,821,15,5582.8,Cash,1
+10364,24-01-2025,C1364,Customer 365,Female,50,Bengaluru,Bengaluru State,South,Grocery,Rice,9,4598,0,41382,Upi,4
+10365,24-05-2025,C1365,Customer 366,Female,63,Lucknow,Lucknow State,North,Furniture,Chair,4,3822,10,13759.2,Credit Card,4
+10366,01-04-2025,C1366,Customer 367,Female,53,Delhi,Delhi State,North,Electronics,Keyboard,4,117,10,421.2,Credit Card,3
+10367,07-03-2025,C1367,Customer 368,Male,30,Delhi,Delhi State,North,Clothing,Jeans,3,3452,0,10356,Cash,4
+10368,12-01-2025,C1368,Customer 369,Male,46,Mumbai,Mumbai State,North,Grocery,Rice,6,982,15,5008.2,Debit Card,5
+10369,22-05-2025,C1369,Customer 370,Female,50,Kolkata,Kolkata State,East,Clothing,Jeans,1,4444,0,4444,Upi,5
+10370,09-04-2025,C1370,Customer 371,Male,35,Mumbai,Mumbai State,West,Clothing,T-Shirt,7,2736,20,15321.6,Debit Card,3
+10371,29-06-2025,C1371,Customer 372,Female,62,Lucknow,Lucknow State,North,Grocery,Rice,3,3481,20,8354.4,Credit Card,5
+10372,22-06-2025,C1372,Customer 373,Male,50,Mumbai,Mumbai State,West,Clothing,T-Shirt,10,2480,10,22320,Credit Card,1
+10373,22-06-2025,C1373,Customer 374,Female,45,Lucknow,Lucknow State,North,Sports,Bat,10,4774,15,40579,Cash,5
+10374,21-02-2025,C1374,Customer 375,Male,36,Delhi,Delhi State,North,Electronics,Mouse,3,2516.5,0,1602,Credit Card,2
+10375,26-04-2025,C1375,Customer 376,Male,65,Delhi,Delhi State,North,Furniture,Chair,9,364,10,2948.4,Debit Card,2
+10376,17-04-2025,C1376,Customer 377,Female,53,Kolkata,Kolkata State,East,Furniture,Sofa,1,3225,15,2741.25,Cash,1
+10377,31-05-2025,C1377,Customer 378,Male,64,Lucknow,Lucknow State,North,Clothing,Jacket,8,1947,10,14018.4,Upi,3
+10378,12-05-2025,C1378,Customer 379,Female,20,Bengaluru,Bengaluru State,South,Clothing,Jacket,2,1631,5,3098.9,Debit Card,3
+10379,02-01-2025,C1379,Customer 380,Female,63,Kolkata,Kolkata State,East,Furniture,Chair,3,4884,10,13186.8,Upi,1
+10380,27-05-2025,C1380,Customer 381,Female,22,Mumbai,Mumbai State,West,Furniture,Sofa,1,2567,15,2181.95,Credit Card,5
+10381,17-04-2025,C1381,Customer 382,Female,23,Mumbai,Mumbai State,West,Clothing,Jacket,2,4238,5,8052.2,Credit Card,2
+10382,08-06-2025,C1382,Customer 383,Female,53,Mumbai,Mumbai State,West,Furniture,Table,6,2504,5,14272.8,Cash,1
+10383,24-06-2025,C1383,Customer 384,Female,25,Lucknow,Lucknow State,North,Grocery,Rice,10,2097,0,20970,Debit Card,3
+10384,11-05-2025,C1384,Customer 385,Female,20,Nan,Kolkata State,East,Furniture,Chair,9,3171,10,22831.2,Credit Card,2
+10385,17-05-2025,C1385,Customer 386,Male,31,Lucknow,Lucknow State,North,Sports,Football,2,1471,20,2353.6,Upi,4
+10386,07-01-2025,C1386,Customer 387,Female,20,Delhi,Delhi State,North,Clothing,Jacket,7,690,5,4588.5,Cash,1
+10387,28-02-2025,C1387,Customer 388,Female,42,Delhi,Delhi State,North,Clothing,Jeans,9,677,20,4874.4,Debit Card,4
+10388,02-01-2025,C1388,Customer 389,Male,65,Bengaluru,Bengaluru State,South,Furniture,Chair,7,1069,20,5986.4,Cash,1
+10389,23-01-2025,C1389,Customer 390,Female,42,Lucknow,Lucknow State,North,Sports,Football,5,2568,20,10272,Debit Card,1
+10390,20-05-2025,C1390,Customer 391,Male,37,Bengaluru,Bengaluru State,South,Clothing,Jacket,4,1217,15,4137.8,Credit Card,1
+10391,27-05-2025,C1391,Customer 392,Female,52,Kolkata,Kolkata State,East,Sports,Football,2,442,0,884,Cash,3
+10392,11-02-2025,C1392,Customer 393,Male,57,Mumbai,Mumbai State,West,Furniture,Chair,7,2516.5,5,28581.7,Credit Card,2
+10393,29-04-2025,C1393,Customer 394,Male,36,Delhi,Delhi State,North,Clothing,Jacket,10,545,20,4360,Cash,3
+10394,02-04-2025,C1394,Customer 395,Male,24,Delhi,Delhi State,North,Clothing,Jacket,10,4091,10,36819,Credit Card,5
+10395,07-06-2025,C1395,Customer 396,Female,62,Delhi,Delhi State,North,Clothing,Jeans,8,3791,10,27295.2,Upi,5
+10396,22-03-2025,C1396,Customer 397,Male,63,Kolkata,Kolkata State,East,Furniture,Table,7,1481,0,10367,Debit Card,3
+10397,25-04-2025,C1397,Customer 398,Female,49,Lucknow,Lucknow State,North,Clothing,Jacket,6,4031,15,20558.1,Cash,2
+10398,09-03-2025,C1398,Customer 399,Male,64,Kolkata,Kolkata State,East,Electronics,Mouse,3,4512,5,12859.2,Cash,1
+10399,24-02-2025,C1399,Customer 400,Female,52,Kolkata,Kolkata State,East,Electronics,Keyboard,10,3418,20,27344,Debit Card,3
+10400,29-04-2025,C1400,Customer 401,Male,43,Lucknow,Lucknow State,North,Grocery,Rice,10,2483,5,23588.5,Credit Card,5
+10401,25-04-2025,C1401,Customer 402,Male,54,Delhi,Delhi State,North,Clothing,Jacket,3,4311,5,12286.35,Upi,4
+10402,09-03-2025,C1402,Customer 403,Male,20,Lucknow,Lucknow State,North,Electronics,Laptop,8,1998,0,15984,Upi,5
+10403,16-06-2025,C1403,Customer 404,Male,63,Lucknow,Lucknow State,North,Grocery,Milk,8,480,0,3840,Credit Card,3
+10404,04-04-2025,C1404,Customer 405,Male,51,Kolkata,Kolkata State,East,Sports,Shoes,3,3185,15,8121.75,Credit Card,4
+10405,04-05-2025,C1405,Customer 406,Male,50,Mumbai,Mumbai State,West,Sports,Bat,6,2926,15,14922.6,Upi,4
+10406,08-02-2025,C1406,Customer 407,Male,41,Mumbai,Mumbai State,West,Clothing,T-Shirt,9,2400,5,20520,Cash,2
+10407,03-05-2025,C1407,Customer 408,Male,59,Bengaluru,Bengaluru State,South,Furniture,Sofa,2,4044,15,6874.8,Debit Card,1
+10408,04-02-2025,C1408,Customer 409,Male,54,Mumbai,Mumbai State,West,Electronics,Laptop,10,4952,5,47044,Upi,1
+10409,25-05-2025,C1409,Customer 410,Male,64,Mumbai,Mumbai State,West,Furniture,Chair,9,3421,20,24631.2,Credit Card,1
+10410,26-02-2025,C1410,Customer 411,Male,55,Mumbai,Mumbai State,West,Grocery,Oil,8,4045,5,30742,Upi,5
+10411,01-06-2025,C1411,Customer 412,Male,42,Kolkata,Kolkata State,East,Furniture,Chair,6,3814,20,18307.2,Debit Card,2
+10412,08-02-2025,C1412,Customer 413,Male,29,Delhi,Delhi State,North,Electronics,Laptop,9,4231,15,32367.15,Cash,5
+10413,04-05-2025,C1413,Customer 414,Male,56,Kolkata,Kolkata State,East,Electronics,Keyboard,9,1062,0,9558,Cash,4
+10414,28-02-2025,C1414,Customer 415,Female,40,Kolkata,Kolkata State,East,Grocery,Milk,1,4440,15,3774,Cash,4
+10415,03-06-2025,C1415,Customer 416,Female,34,Mumbai,Mumbai State,West,Furniture,Table,4,786,10,2829.6,Upi,1
+10416,07-04-2025,C1416,Customer 417,Male,-4,Delhi,Delhi State,North,Sports,Shoes,2,4357,0,8714,Credit Card,4
+10417,08-03-2025,C1417,Customer 418,Female,54,Lucknow,Lucknow State,North,Electronics,Laptop,7,2516.5,10,30838.5,Credit Card,5
+10418,04-05-2025,C1418,Customer 419,Female,53,Lucknow,Lucknow State,North,Grocery,Rice,7,4622,20,25883.2,Debit Card,3
+10419,28-02-2025,C1419,Customer 420,Male,24,Lucknow,Lucknow State,North,Sports,Bat,7,2516.5,0,8617,Upi,5
+10420,10-04-2025,C1420,Customer 421,Male,23,Bengaluru,Bengaluru State,South,Furniture,Sofa,10,526,5,4997,Upi,4
+10421,05-04-2025,C1421,Customer 422,Male,64,Kolkata,Kolkata State,East,Grocery,Rice,2,2255,5,4284.5,Debit Card,4
+10422,13-06-2025,C1422,Customer 423,Female,18,Kolkata,Kolkata State,East,Sports,Bat,10,570,5,5415,Upi,5
+10423,28-06-2025,C1423,Customer 424,Male,61,Lucknow,Lucknow State,North,Clothing,T-Shirt,10,4282,20,34256,Cash,3
+10424,01-04-2025,C1424,Customer 425,Female,43,Mumbai,Mumbai State,West,Electronics,Laptop,2,2360,15,4012,Upi,5
+10425,30-05-2025,C1425,Customer 426,Female,35,Delhi,Delhi State,North,Electronics,Laptop,9,2430,20,17496,Upi,5
+10426,14-02-2025,C1426,Customer 427,Male,53,Mumbai,Mumbai State,West,Grocery,Milk,10,138,10,1242,Cash,5
+10427,28-05-2025,C1427,Customer 428,Female,42,Lucknow,Lucknow State,North,Furniture,Chair,9,2211,20,15919.2,Debit Card,2
+10428,04-05-2025,C1428,Customer 429,Female,22,Lucknow,Lucknow State,North,Grocery,Oil,8,4907,0,39256,Debit Card,2
+10429,03-01-2025,C1429,Customer 430,Female,33,Mumbai,Mumbai State,West,Furniture,Table,6,4331,20,20788.8,Credit Card,1
+10430,22-03-2025,C1430,Customer 431,Male,54,Bengaluru,Bengaluru State,South,Furniture,Chair,9,1562,15,11949.3,Credit Card,2
+10431,09-03-2025,C1431,Customer 432,Male,30,Mumbai,Mumbai State,West,Grocery,Oil,4,2023,5,7687.4,Upi,5
+10432,07-06-2025,C1432,Customer 433,Male,48,Lucknow,Lucknow State,North,Clothing,T-Shirt,2,742,15,1261.4,Credit Card,5
+10433,11-05-2025,C1433,Customer 434,Female,32,Lucknow,Lucknow State,North,Grocery,Oil,5,4120,5,19570,Upi,1
+10434,30-03-2025,C1434,Customer 435,Male,47,Kolkata,Kolkata State,East,Grocery,Milk,9,366,20,2635.2,Cash,5
+10435,08-04-2025,C1435,Customer 436,Male,38,Bengaluru,Bengaluru State,South,Furniture,Sofa,1,196,5,186.2,Credit Card,5
+10436,01-05-2025,C1436,Customer 437,Female,41,Lucknow,Lucknow State,North,Clothing,Jacket,5,2042,10,9189,Upi,4
+10437,13-03-2025,C1437,Customer 438,Male,54,Bengaluru,Bengaluru State,South,Clothing,Jeans,6,3090,15,15759,Upi,5
+10438,21-04-2025,C1438,Customer 439,Male,27,Mumbai,Mumbai State,West,Electronics,Keyboard,5,2031,20,8124,Upi,3
+10439,17-05-2025,C1439,Customer 440,Female,49,Delhi,Delhi State,North,Clothing,Jeans,8,1201,20,7686.4,Credit Card,3
+10440,16-01-2025,C1440,Customer 441,Female,48,Kolkata,Kolkata State,East,Sports,Football,7,910,5,6051.5,Cash,4
+10441,07-03-2025,C1441,Customer 442,Male,44,Lucknow,Lucknow State,North,Furniture,Table,6,4690,20,22512,Cash,3
+10442,14-03-2025,C1442,Customer 443,Female,61,Kolkata,Kolkata State,East,Clothing,Jacket,10,4510,5,42845,Debit Card,4
+10443,12-02-2025,C1443,Customer 444,Female,44,Delhi,Delhi State,North,Grocery,Oil,5,3899,5,18520.25,Debit Card,1
+10444,17-06-2025,C1444,Customer 445,Female,56,Delhi,Delhi State,North,Clothing,Jeans,4,2668,10,9604.8,Debit Card,3
+10445,16-04-2025,C1445,Customer 446,Male,19,Bengaluru,Bengaluru State,South,Furniture,Sofa,10,4367,15,37119.5,Upi,2
+10446,25-01-2025,C1446,Customer 447,Female,53,Lucknow,Lucknow State,North,Electronics,Laptop,3,3352,0,10056,Cash,1
+10447,09-02-2025,C1447,Customer 448,Female,37,Bengaluru,Bengaluru State,South,Sports,Football,2,2250,20,3600,Upi,2
+10448,13-02-2025,C1448,Customer 449,Male,60,Lucknow,Lucknow State,North,Grocery,Oil,3,1175,20,2820,Credit Card,3
+10449,04-02-2025,C1449,Customer 450,Male,-4,Bengaluru,Bengaluru State,South,Grocery,Oil,5,4593,15,19520.25,Debit Card,5
+10450,04-05-2025,C1450,Customer 451,Male,23,Bengaluru,Bengaluru State,South,Sports,Shoes,9,2636,10,21351.6,Debit Card,3
+10451,01-01-2025,C1451,Customer 452,Male,40,Lucknow,Lucknow State,North,Grocery,Milk,3,2586,0,7758,Credit Card,4
+10452,03-01-2025,C1452,Customer 453,Female,56,Kolkata,Kolkata State,North,Electronics,Keyboard,8,4008,10,28857.6,Upi,1
+10453,12-04-2025,C1453,Customer 454,Male,63,Kolkata,Kolkata State,East,Furniture,Chair,7,4692,15,27917.4,Debit Card,4
+10454,06-06-2025,C1454,Customer 455,Female,36,Mumbai,Mumbai State,West,Furniture,Chair,7,2062,20,11547.2,Credit Card,4
+10455,13-06-2025,C1455,Customer 456,Female,35,Mumbai,Mumbai State,West,Electronics,Laptop,3,2472,0,7416,Debit Card,2
+10456,17-02-2025,C1456,Customer 457,Female,-4,Lucknow,Lucknow State,North,Electronics,Laptop,1,4482,0,4482,Upi,4
+10457,25-02-2025,C1457,Customer 458,Female,37,Delhi,Delhi State,North,Clothing,T-Shirt,3,220,15,561,Debit Card,3
+10458,10-03-2025,C1458,Customer 459,Male,52,Bengaluru,Bengaluru State,South,Electronics,Mouse,2,1296,0,2592,Debit Card,2
+10459,09-04-2025,C1459,Customer 460,Male,65,Mumbai,Mumbai State,West,Furniture,Table,1,1099,5,1044.05,Cash,2
+10460,24-06-2025,C1460,Customer 461,Female,28,Bengaluru,Bengaluru State,South,Electronics,Keyboard,4,3973,15,13508.2,Cash,5
+10461,03-04-2025,C1461,Customer 462,Male,25,Kolkata,Kolkata State,East,Electronics,Mouse,8,2547,5,19357.2,Upi,4
+10462,12-04-2025,C1462,Customer 463,Male,20,Lucknow,Lucknow State,North,Electronics,Laptop,5,4889,0,24445,Debit Card,5
+10463,24-01-2025,C1463,Customer 464,Female,58,Mumbai,Mumbai State,West,Furniture,Chair,4,1391,15,4729.4,Cash,1
+10464,05-05-2025,C1464,Customer 465,Female,53,Lucknow,Lucknow State,North,Clothing,Jacket,9,979,5,8370.45,Credit Card,4
+10465,06-03-2025,C1465,Customer 466,Female,63,Mumbai,Mumbai State,West,Electronics,Keyboard,7,3034,5,20176.1,Debit Card,5
+10466,17-02-2025,C1466,Customer 467,Female,38,Lucknow,Lucknow State,North,Sports,Shoes,8,1654,20,10585.6,Debit Card,3
+10467,26-04-2025,C1467,Customer 468,Female,52,Kolkata,Kolkata State,East,Sports,Football,2,4451,5,8456.9,Credit Card,4
+10468,04-04-2025,C1468,Customer 469,Male,38,Delhi,Delhi State,North,Sports,Bat,3,253,20,607.2,Cash,5
+10469,06-06-2025,C1469,Customer 470,Female,44,Bengaluru,Bengaluru State,South,Clothing,Jacket,8,4617,5,35089.2,Credit Card,1
+10470,15-02-2025,C1470,Customer 471,Male,24,Delhi,Delhi State,North,Sports,Shoes,2,458,5,870.2,Debit Card,2
+10471,09-06-2025,C1471,Customer 472,Female,21,Delhi,Delhi State,North,Electronics,Keyboard,7,4113,20,23032.8,Credit Card,2
+10472,30-04-2025,C1472,Customer 473,Male,41,Kolkata,Kolkata State,East,Electronics,Laptop,4,4125,0,16500,Debit Card,3
+10473,19-03-2025,C1473,Customer 474,Male,51,Delhi,Delhi State,North,Sports,Bat,9,433,0,3897,Cash,1
+10474,18-06-2025,C1474,Customer 475,Male,53,Mumbai,Mumbai State,West,Sports,Bat,4,1682,20,5382.4,Debit Card,1
+10475,12-02-2025,C1475,Customer 476,Female,50,Kolkata,Kolkata State,East,Furniture,Sofa,8,3598,0,28784,Credit Card,2
+10476,25-03-2025,C1476,Customer 477,Female,58,Kolkata,Kolkata State,East,Sports,Bat,6,2681,20,12868.8,Debit Card,3
+10477,21-05-2025,C1477,Customer 478,Female,41,Kolkata,Kolkata State,East,Clothing,Jacket,9,1852,15,14167.8,Debit Card,4
+10478,05-01-2025,C1478,Customer 479,Male,37,Bengaluru,Bengaluru State,South,Electronics,Keyboard,1,2430,20,1944,Cash,3
+10479,11-05-2025,C1479,Customer 480,Male,24,Mumbai,Mumbai State,West,Clothing,Jeans,1,2360,20,1888,Cash,4
+10480,05-03-2025,C1480,Customer 481,Female,37,Lucknow,Lucknow State,North,Clothing,T-Shirt,5,3107,20,12428,Cash,5
+10481,14-02-2025,C1481,Customer 482,Male,56,Bengaluru,Bengaluru State,South,Sports,Football,2,2759,15,4690.3,Credit Card,1
+10482,22-04-2025,C1482,Customer 483,Male,32,Kolkata,Kolkata State,East,Grocery,Rice,1,2839,10,2555.1,Cash,4
+10483,25-05-2025,C1483,Customer 484,Female,50,Delhi,Delhi State,North,Furniture,Sofa,1,2715,20,2172,Upi,2
+10484,24-01-2025,C1484,Customer 485,Female,36,Delhi,Delhi State,North,Grocery,Milk,10,4812,20,38496,Debit Card,2
+10485,21-05-2025,C1485,Customer 486,Female,23,Mumbai,Mumbai State,West,Furniture,Chair,8,4781,10,38248,Debit Card,5
+10486,05-05-2025,C1486,Customer 487,Male,53,Bengaluru,Bengaluru State,South,Clothing,T-Shirt,8,4681,5,35575.6,Upi,2
+10487,29-01-2025,C1487,Customer 488,Female,45,Delhi,Delhi State,North,Furniture,Table,6,4818,0,28908,Credit Card,3
+10488,13-02-2025,C1488,Customer 489,Female,57,Mumbai,Mumbai State,West,Furniture,Table,10,298,10,2682,Upi,4
+10489,29-01-2025,C1489,Customer 490,Male,33,Delhi,Delhi State,North,Clothing,T-Shirt,6,1377,0,8262,Upi,3
+10490,01-05-2025,C1490,Customer 491,Female,31,Delhi,Delhi State,North,Furniture,Sofa,2,2599,15,4418.3,Upi,2
+10491,06-02-2025,C1491,Customer 492,Male,42,Kolkata,Kolkata State,East,Sports,Bat,9,4056,20,29203.2,Cash,3
+10492,30-04-2025,C1492,Customer 493,Male,22,Mumbai,Mumbai State,West,Electronics,Mouse,4,2322,0,9288,Debit Card,3
+10493,08-04-2025,C1493,Customer 494,Male,38,Lucknow,Lucknow State,North,Electronics,Laptop,5,3266,5,15513.5,Debit Card,5
+10494,24-05-2025,C1494,Customer 495,Male,20,Kolkata,Kolkata State,East,Electronics,Laptop,4,4201,15,14283.4,Upi,5
+10495,30-03-2025,C1495,Customer 496,Female,40,Lucknow,Lucknow State,North,Furniture,Table,7,1386,0,9702,Credit Card,2
+10496,23-05-2025,C1496,Customer 497,Male,27,Kolkata,Kolkata State,North,Furniture,Chair,5,3271,0,16355,Credit Card,4
+10497,10-06-2025,C1497,Customer 498,Male,44,Mumbai,Mumbai State,West,Electronics,Keyboard,7,4365,20,24444,Upi,5
+10498,19-05-2025,C1498,Customer 499,Male,-4,Mumbai,Mumbai State,West,Grocery,Milk,10,2797,15,23774.5,Upi,5
+10499,21-04-2025,C1499,Customer 500,Male,38,Kolkata,Kolkata State,East,Clothing,T-Shirt,5,4391,5,20857.25,Cash,5
+10500,23-03-2025,C1500,Customer 501,Female,37,Kolkata,Kolkata State,East,Electronics,Laptop,6,1292,0,7752,Debit Card,3
+10501,06-06-2025,C1501,Customer 502,Female,56,Mumbai,Mumbai State,West,Clothing,T-Shirt,3,1613,0,4839,Upi,5
+10502,26-06-2025,C1502,Customer 503,Male,50,Mumbai,Mumbai State,West,Clothing,Jacket,1,3043,0,3043,Debit Card,3
+10503,19-02-2025,C1503,Customer 504,Male,44,Mumbai,Mumbai State,West,Grocery,Milk,8,1226,5,9317.6,Cash,3
+10504,15-02-2025,C1504,Customer 505,Female,62,Bengaluru,Bengaluru State,South,Clothing,Jacket,4,1775,0,7100,Credit Card,4
+10505,11-04-2025,C1505,Customer 506,Male,51,Mumbai,Mumbai State,West,Grocery,Milk,1,3216,10,2894.4,Cash,4
+10506,11-01-2025,C1506,Customer 507,Female,51,Bengaluru,Bengaluru State,South,Electronics,Laptop,9,4506,15,34470.9,Cash,2
+10507,12-02-2025,C1507,Customer 508,Female,57,Lucknow,Lucknow State,North,Grocery,Milk,5,2442,15,10378.5,Cash,5
+10508,29-01-2025,C1508,Customer 509,Male,43,Mumbai,Mumbai State,West,Grocery,Oil,8,840,20,5376,Debit Card,3
+10509,27-04-2025,C1509,Customer 510,Female,38,Bengaluru,Bengaluru State,South,Electronics,Laptop,8,4935,5,37506,Upi,1
+10510,15-05-2025,C1510,Customer 511,Female,64,Delhi,Delhi State,North,Electronics,Keyboard,8,3073,0,24584,Upi,4
+10511,18-06-2025,C1511,Customer 512,Male,27,Kolkata,Kolkata State,East,Grocery,Rice,3,2845,20,6828,Upi,1
+10512,31-01-2025,C1512,Customer 513,Male,18,Bengaluru,Bengaluru State,South,Furniture,Table,8,2465,5,18734,Credit Card,1
+10513,07-05-2025,C1513,Customer 514,Male,55,Bengaluru,Bengaluru State,South,Grocery,Milk,9,147,20,1058.4,Debit Card,4
+10514,21-05-2025,C1514,Customer 515,Male,-4,Bengaluru,Bengaluru State,South,Grocery,Rice,10,153,5,1453.5,Upi,2
+10515,04-06-2025,C1515,Customer 516,Female,23,Delhi,Delhi State,North,Furniture,Chair,3,365,20,876,Cash,1
+10516,24-05-2025,C1516,Customer 517,Female,65,Bengaluru,Bengaluru State,South,Clothing,T-Shirt,5,4973,20,19892,Credit Card,1
+10517,20-04-2025,C1517,Customer 518,Male,36,Nan,Delhi State,North,Furniture,Table,6,3204,10,19224,Debit Card,2
+10518,23-02-2025,C1518,Customer 519,Male,57,Delhi,Delhi State,North,Furniture,Table,9,3489,20,25120.8,Cash,1
+10519,05-06-2025,C1519,Customer 520,Female,51,Kolkata,Kolkata State,East,Sports,Football,8,2452,15,16673.6,Credit Card,2
+10520,16-02-2025,C1520,Customer 521,Male,63,Nan,Kolkata State,East,Sports,Bat,9,4177,10,31954.05,Credit Card,2
+10521,07-06-2025,C1521,Customer 522,Female,20,Delhi,Delhi State,North,Electronics,Laptop,8,1066,5,8101.6,Credit Card,3
+10522,18-01-2025,C1522,Customer 523,Female,50,Kolkata,Kolkata State,East,Clothing,T-Shirt,4,2407,10,8665.2,Credit Card,1
+10523,08-01-2025,C1523,Customer 524,Male,39,Delhi,Delhi State,North,Furniture,Table,7,4760,20,26656,Credit Card,4
+10524,10-06-2025,C1524,Customer 525,Female,47,Bengaluru,Bengaluru State,South,Electronics,Keyboard,3,4044,5,11525.4,Debit Card,1
+10525,05-01-2025,C1525,Customer 526,Female,40,Kolkata,Kolkata State,East,Furniture,Sofa,6,4648,20,22310.4,Cash,2
+10526,27-05-2025,C1526,Customer 527,Female,29,Lucknow,Lucknow State,North,Electronics,Mouse,7,4476,5,29765.4,Cash,3
+10527,02-03-2025,C1527,Customer 528,Female,37,Lucknow,Lucknow State,North,Electronics,Mouse,7,811,15,4825.45,Upi,5
+10528,24-01-2025,C1528,Customer 529,Male,48,Lucknow,Lucknow State,North,Clothing,T-Shirt,6,406,5,2314.2,Upi,2
+10529,06-02-2025,C1529,Customer 530,Male,31,Lucknow,Lucknow State,North,Grocery,Oil,9,2642,10,21400.2,Cash,4
+10530,25-06-2025,C1530,Customer 531,Male,-4,Bengaluru,Bengaluru State,South,Sports,Football,1,2647,0,2647,Debit Card,1
+10531,21-03-2025,C1531,Customer 532,Male,38,Delhi,Delhi State,North,Sports,Shoes,5,284,20,1136,Upi,2
+10532,11-03-2025,C1532,Customer 533,Male,35,Lucknow,Lucknow State,North,Furniture,Sofa,6,3713,0,22278,Cash,1
+10533,31-03-2025,C1533,Customer 534,Female,35,Kolkata,Kolkata State,East,Sports,Shoes,2,1792,20,2867.2,Upi,3
+10534,28-03-2025,C1534,Customer 535,Female,21,Kolkata,Kolkata State,East,Clothing,T-Shirt,2,2650,20,4240,Upi,1
+10535,20-04-2025,C1535,Customer 536,Male,63,Bengaluru,Bengaluru State,South,Electronics,Laptop,7,540,0,3780,Debit Card,5
+10536,30-04-2025,C1536,Customer 537,Male,23,Nan,Lucknow State,North,Furniture,Table,4,4470,10,17880,Debit Card,1
+10537,27-02-2025,C1537,Customer 538,Female,41,Bengaluru,Bengaluru State,South,Furniture,Sofa,8,3954,5,30050.4,Debit Card,2
+10538,02-05-2025,C1538,Customer 539,Female,48,Lucknow,Lucknow State,North,Furniture,Table,8,347,0,2776,Debit Card,2
+10539,27-01-2025,C1539,Customer 540,Male,38,Lucknow,Lucknow State,North,Furniture,Sofa,10,1143,20,9144,Cash,3
+10540,08-06-2025,C1540,Customer 541,Male,48,Kolkata,Kolkata State,East,Grocery,Milk,10,3486,5,33117,Debit Card,1
+10541,26-05-2025,C1541,Customer 542,Male,29,Lucknow,Lucknow State,North,Clothing,Jacket,10,3631,15,30863.5,Cash,5
+10542,23-05-2025,C1542,Customer 543,Female,29,Bengaluru,Bengaluru State,South,Electronics,Keyboard,10,3892,10,35028,Credit Card,4
+10543,07-05-2025,C1543,Customer 544,Male,23,Delhi,Delhi State,North,Sports,Football,10,3204,10,28836,Upi,2
+10544,16-03-2025,C1544,Customer 545,Female,30,Kolkata,Kolkata State,East,Electronics,Laptop,3,2516.5,20,9144,Upi,3
+10545,23-01-2025,C1545,Customer 546,Male,57,Lucknow,Lucknow State,North,Sports,Shoes,5,3661,10,16474.5,Debit Card,2
+10546,30-06-2025,C1546,Customer 547,Female,25,Lucknow,Lucknow State,North,Electronics,Mouse,9,535,0,4815,Credit Card,1
+10547,08-04-2025,C1547,Customer 548,Female,45,Mumbai,Mumbai State,West,Grocery,Oil,10,3329,10,29961,Upi,2
+10548,17-04-2025,C1548,Customer 549,Female,60,Bengaluru,Bengaluru State,South,Clothing,T-Shirt,9,3250,10,26325,Upi,2
+10549,18-06-2025,C1549,Customer 550,Male,23,Delhi,Delhi State,North,Electronics,Keyboard,1,1279,15,1087.15,Upi,4
+10550,11-05-2025,C1550,Customer 551,Female,42,Bengaluru,Bengaluru State,South,Sports,Bat,10,1572,15,13362,Credit Card,2
+10551,02-03-2025,C1551,Customer 552,Female,44,Mumbai,Mumbai State,West,Grocery,Oil,1,4834,15,4108.9,Credit Card,1
+10552,04-05-2025,C1552,Customer 553,Male,27,Delhi,Delhi State,North,Sports,Bat,6,1027,20,4929.6,Credit Card,4
+10553,01-05-2025,C1553,Customer 554,Male,61,Kolkata,Kolkata State,East,Electronics,Keyboard,10,824,5,7828,Credit Card,5
+10554,12-05-2025,C1554,Customer 555,Female,44,Delhi,Delhi State,North,Furniture,Sofa,1,3940,15,3349,Credit Card,3
+10555,08-03-2025,C1555,Customer 556,Female,55,Lucknow,Lucknow State,North,Clothing,T-Shirt,10,2590,20,20720,Upi,5
+10556,05-05-2025,C1556,Customer 557,Male,50,Delhi,Delhi State,North,Furniture,Sofa,10,323,10,2907,Cash,3
+10557,04-01-2025,C1557,Customer 558,Male,56,Lucknow,Lucknow State,North,Clothing,Jacket,5,2354,10,10593,Upi,5
+10558,05-05-2025,C1558,Customer 559,Male,39,Mumbai,Mumbai State,West,Grocery,Milk,3,2240,5,6384,Cash,2
+10559,19-06-2025,C1559,Customer 560,Male,31,Kolkata,Kolkata State,East,Clothing,Jeans,7,3238,5,21532.7,Credit Card,1
+10560,02-05-2025,C1560,Customer 561,Female,65,Lucknow,Lucknow State,North,Electronics,Laptop,3,3901,15,9947.55,Upi,4
+10561,04-01-2025,C1561,Customer 562,Female,42,Bengaluru,Bengaluru State,South,Grocery,Milk,3,4445,15,11334.75,Credit Card,5
+10562,16-06-2025,C1562,Customer 563,Female,35,Delhi,Delhi State,North,Electronics,Keyboard,6,3637,20,17457.6,Credit Card,1
+10563,19-02-2025,C1563,Customer 564,Female,61,Lucknow,Lucknow State,North,Sports,Bat,8,2080,20,13312,Upi,3
+10564,16-04-2025,C1564,Customer 565,Male,61,Kolkata,Kolkata State,East,Electronics,Keyboard,1,656,0,656,Debit Card,3
+10565,08-06-2025,C1565,Customer 566,Male,56,Mumbai,Mumbai State,West,Furniture,Table,4,378,10,1512,Upi,5
+10566,18-06-2025,C1566,Customer 567,Male,25,Delhi,Delhi State,North,Electronics,Laptop,10,1164,15,9894,Upi,3
+10567,20-04-2025,C1567,Customer 568,Female,34,Lucknow,Lucknow State,North,Grocery,Oil,2,3814,10,6865.2,Upi,1
+10568,08-03-2025,C1568,Customer 569,Male,46,Lucknow,Lucknow State,North,Electronics,Mouse,7,2825,0,19775,Cash,4
+10569,06-02-2025,C1569,Customer 570,Female,31,Mumbai,Mumbai State,West,Sports,Bat,3,4130,0,12390,Cash,4
+10570,06-03-2025,C1570,Customer 571,Male,49,Lucknow,Lucknow State,North,Electronics,Laptop,2,676,20,1081.6,Upi,1
+10571,28-05-2025,C1571,Customer 572,Female,48,Delhi,Delhi State,North,Grocery,Milk,3,2801,15,7142.55,Debit Card,4
+10572,01-02-2025,C1572,Customer 573,Female,39,Delhi,Delhi State,North,Sports,Football,1,3249,15,2761.65,Credit Card,4
+10573,28-04-2025,C1573,Customer 574,Male,29,Delhi,Delhi State,North,Electronics,Mouse,9,2885,0,25965,Cash,4
+10574,05-05-2025,C1574,Customer 575,Female,65,Mumbai,Mumbai State,West,Furniture,Sofa,7,974,10,6136.2,Upi,2
+10575,10-04-2025,C1575,Customer 576,Female,49,Delhi,Delhi State,North,Clothing,T-Shirt,10,2053,15,17450.5,Debit Card,1
+10576,31-01-2025,C1576,Customer 577,Female,61,Delhi,Delhi State,North,Furniture,Chair,6,450,15,2295,Upi,5
+10577,01-05-2025,C1577,Customer 578,Male,33,Nan,Mumbai State,West,Electronics,Laptop,3,4105,10,12315,Upi,1
+10578,13-02-2025,C1578,Customer 579,Male,24,Mumbai,Mumbai State,West,Electronics,Mouse,2,3837,20,6139.2,Cash,4
+10579,28-03-2025,C1579,Customer 580,Female,38,Kolkata,Kolkata State,East,Sports,Football,2,1760,10,2992,Cash,5
+10580,14-02-2025,C1580,Customer 581,Male,25,Kolkata,Kolkata State,East,Clothing,Jeans,4,473,20,1513.6,Credit Card,2
+10581,23-04-2025,C1581,Customer 582,Male,26,Bengaluru,Bengaluru State,South,Clothing,Jacket,6,4633,5,26408.1,Cash,5
+10582,02-01-2025,C1582,Customer 583,Male,63,Bengaluru,Bengaluru State,South,Clothing,T-Shirt,8,761,0,6088,Credit Card,4
+10583,26-04-2025,C1583,Customer 584,Male,29,Bengaluru,Bengaluru State,South,Clothing,T-Shirt,3,2319,20,5565.6,Cash,5
+10584,18-04-2025,C1584,Customer 585,Male,30,Mumbai,Mumbai State,West,Grocery,Oil,2,2567,10,4620.6,Cash,5
+10585,29-04-2025,C1585,Customer 586,Male,35,Delhi,Delhi State,North,Sports,Bat,9,4257,5,36397.35,Cash,2
+10586,10-02-2025,C1586,Customer 587,Male,-4,Delhi,Delhi State,North,Clothing,Jacket,8,4175,5,31730,Credit Card,3
+10587,27-01-2025,C1587,Customer 588,Male,52,Mumbai,Mumbai State,West,Grocery,Milk,6,3812,0,22872,Upi,2
+10588,24-04-2025,C1588,Customer 589,Female,44,Delhi,Delhi State,North,Grocery,Oil,2,680,5,1292,Upi,3
+10589,16-04-2025,C1589,Customer 590,Female,32,Mumbai,Mumbai State,West,Electronics,Mouse,4,903,5,3431.4,Cash,4
+10590,06-06-2025,C1590,Customer 591,Male,42,Kolkata,Kolkata State,East,Grocery,Rice,7,1287,5,8558.55,Credit Card,2
+10591,27-03-2025,C1591,Customer 592,Male,62,Bengaluru,Bengaluru State,South,Clothing,Jacket,6,2309,5,13161.3,Cash,3
+10592,29-03-2025,C1592,Customer 593,Female,56,Mumbai,Mumbai State,West,Electronics,Mouse,8,3526,5,26797.6,Upi,5
+10593,14-05-2025,C1593,Customer 594,Male,55,Mumbai,Mumbai State,West,Sports,Shoes,4,808,15,2747.2,Debit Card,4
+10594,25-03-2025,C1594,Customer 595,Male,55,Lucknow,Lucknow State,North,Electronics,Keyboard,7,2120,5,14098,Upi,5
+10595,09-01-2025,C1595,Customer 596,Female,48,Delhi,Delhi State,North,Grocery,Rice,1,3955,20,3164,Cash,4
+10596,25-02-2025,C1596,Customer 597,Female,36,Bengaluru,Bengaluru State,South,Clothing,T-Shirt,9,201,15,1537.65,Upi,1
+10597,27-05-2025,C1597,Customer 598,Male,47,Delhi,Delhi State,North,Grocery,Oil,5,1425,15,6056.25,Debit Card,2
+10598,09-04-2025,C1598,Customer 599,Female,51,Bengaluru,Bengaluru State,South,Clothing,Jeans,8,111,0,888,Cash,3
+10599,23-02-2025,C1599,Customer 600,Male,57,Bengaluru,Bengaluru State,South,Furniture,Sofa,10,4543,20,36344,Credit Card,1
+10600,30-04-2025,C1600,Customer 601,Male,41,Kolkata,Kolkata State,North,Furniture,Chair,2,3237,10,5826.6,Credit Card,2
+10601,03-03-2025,C1601,Customer 602,Male,59,Kolkata,Kolkata State,East,Electronics,Keyboard,4,1233,10,4438.8,Debit Card,5
+10602,24-06-2025,C1602,Customer 603,Female,21,Mumbai,Mumbai State,West,Clothing,Jeans,6,2290,20,10992,Cash,3
+10603,01-05-2025,C1603,Customer 604,Female,46,Lucknow,Lucknow State,North,Grocery,Milk,9,4414,0,39726,Credit Card,1
+10604,15-03-2025,C1604,Customer 605,Male,28,Mumbai,Mumbai State,West,Grocery,Rice,2,3300,5,6270,Credit Card,1
+10605,17-03-2025,C1605,Customer 606,Male,48,Mumbai,Mumbai State,West,Grocery,Rice,4,4365,0,17460,Credit Card,4
+10606,01-03-2025,C1606,Customer 607,Female,44,Bengaluru,Bengaluru State,South,Electronics,Mouse,4,615,0,2460,Credit Card,3
+10607,28-04-2025,C1607,Customer 608,Male,37,Bengaluru,Bengaluru State,South,Sports,Shoes,9,4593,10,35136.45,Upi,3
+10608,01-04-2025,C1608,Customer 609,Female,28,Mumbai,Mumbai State,West,Grocery,Milk,5,487,5,2313.25,Upi,5
+10609,30-01-2025,C1609,Customer 610,Female,54,Lucknow,Lucknow State,North,Clothing,T-Shirt,3,1420,5,4047,Upi,4
+10610,20-06-2025,C1610,Customer 611,Female,27,Lucknow,Lucknow State,North,Furniture,Chair,4,4707,0,18828,Credit Card,4
+10611,14-04-2025,C1611,Customer 612,Male,47,Kolkata,Kolkata State,East,Clothing,Jacket,5,1095,0,5475,Credit Card,2
+10612,16-03-2025,C1612,Customer 613,Male,54,Delhi,Delhi State,North,Sports,Shoes,6,2521,15,12857.1,Debit Card,3
+10613,20-03-2025,C1613,Customer 614,Female,57,Delhi,Delhi State,North,Grocery,Rice,3,4613,0,13839,Upi,4
+10614,15-05-2025,C1614,Customer 615,Female,30,Lucknow,Lucknow State,North,Electronics,Mouse,1,1698,20,1358.4,Cash,1
+10615,19-02-2025,C1615,Customer 616,Female,56,Kolkata,Kolkata State,East,Grocery,Oil,2,4292,10,7296.4,Cash,3
+10616,06-04-2025,C1616,Customer 617,Female,40,Bengaluru,Bengaluru State,South,Clothing,Jacket,7,3128,15,18611.6,Credit Card,3
+10617,24-04-2025,C1617,Customer 618,Male,64,Bengaluru,Bengaluru State,South,Sports,Football,4,3739,15,12712.6,Debit Card,4
+10618,19-03-2025,C1618,Customer 619,Female,22,Mumbai,Mumbai State,West,Sports,Shoes,2,1276,5,2424.4,Debit Card,1
+10619,23-05-2025,C1619,Customer 620,Male,30,Delhi,Delhi State,North,Grocery,Oil,5,3495,5,16601.25,Upi,4
+10620,19-03-2025,C1620,Customer 621,Female,32,Lucknow,Lucknow State,North,Sports,Bat,1,2573,20,2058.4,Cash,1
+10621,17-04-2025,C1621,Customer 622,Female,62,Mumbai,Mumbai State,West,Furniture,Table,8,1117,10,8042.4,Upi,1
+10622,04-05-2025,C1622,Customer 623,Female,34,Delhi,Delhi State,North,Furniture,Table,2,3063,20,4900.8,Debit Card,1
+10623,11-02-2025,C1623,Customer 624,Male,27,Lucknow,Lucknow State,North,Sports,Shoes,10,243,10,2187,Credit Card,4
+10624,18-04-2025,C1624,Customer 625,Female,21,Mumbai,Mumbai State,West,Furniture,Chair,1,2333,10,2099.7,Credit Card,3
+10625,03-06-2025,C1625,Customer 626,Female,38,Kolkata,Kolkata State,East,Electronics,Keyboard,4,1601,10,6404,Credit Card,3
+10626,04-01-2025,C1626,Customer 627,Female,41,Lucknow,Lucknow State,North,Electronics,Keyboard,10,2980,5,28310,Debit Card,4
+10627,26-02-2025,C1627,Customer 628,Male,44,Lucknow,Lucknow State,North,Clothing,T-Shirt,4,1366,10,4371.2,Debit Card,1
+10628,26-06-2025,C1628,Customer 629,Male,46,Delhi,Delhi State,North,Clothing,T-Shirt,8,2952,10,21254.4,Credit Card,2
+10629,27-06-2025,C1629,Customer 630,Male,37,Lucknow,Lucknow State,North,Electronics,Keyboard,2,1921,5,3649.9,Upi,2
+10630,04-05-2025,C1630,Customer 631,Male,30,Mumbai,Mumbai State,West,Electronics,Mouse,2,736,0,1472,Cash,1
+10631,12-01-2025,C1631,Customer 632,Female,60,Kolkata,Kolkata State,East,Sports,Football,8,1074,10,7732.8,Cash,1
+10632,21-06-2025,C1632,Customer 633,Male,23,Delhi,Delhi State,North,Sports,Football,10,1738,5,16511,Upi,3
+10633,03-03-2025,C1633,Customer 634,Male,24,Kolkata,Kolkata State,East,Furniture,Table,3,4201,20,10082.4,Cash,5
+10634,26-01-2025,C1634,Customer 635,Female,41,Mumbai,Mumbai State,West,Clothing,Jeans,3,4500,0,13500,Upi,4
+10635,12-05-2025,C1635,Customer 636,Female,25,Delhi,Delhi State,North,Clothing,Jeans,7,3574,5,23767.1,Credit Card,1
+10636,30-06-2025,C1636,Customer 637,Male,23,Nan,Bengaluru State,South,Electronics,Keyboard,3,4161,10,11234.7,Credit Card,4
+10637,27-02-2025,C1637,Customer 638,Female,36,Delhi,Delhi State,North,Grocery,Milk,8,2655,15,18054,Debit Card,2
+10638,22-06-2025,C1638,Customer 639,Male,43,Delhi,Delhi State,North,Grocery,Oil,6,1568,0,9408,Debit Card,5
+10639,27-01-2025,C1639,Customer 640,Male,22,Delhi,Delhi State,North,Electronics,Laptop,7,3381,20,18933.6,Credit Card,2
+10640,19-04-2025,C1640,Customer 641,Female,35,Lucknow,Lucknow State,North,Clothing,Jacket,7,1105,5,7348.25,Cash,4
+10641,11-05-2025,C1641,Customer 642,Male,47,Lucknow,Lucknow State,North,Grocery,Oil,10,3413,15,29010.5,Cash,1
+10642,26-01-2025,C1642,Customer 643,Male,-4,Lucknow,Lucknow State,North,Grocery,Milk,4,1202,0,4808,Debit Card,1
+10643,09-06-2025,C1643,Customer 644,Male,22,Mumbai,Mumbai State,West,Grocery,Oil,6,1351,10,7295.4,Debit Card,4
+10644,08-03-2025,C1644,Customer 645,Female,52,Mumbai,Mumbai State,West,Furniture,Sofa,8,4116,20,26342.4,Cash,1
+10645,24-04-2025,C1645,Customer 646,Male,20,Bengaluru,Bengaluru State,South,Electronics,Mouse,8,2676,15,18196.8,Upi,5
+10646,10-04-2025,C1646,Customer 647,Male,54,Lucknow,Lucknow State,North,Clothing,Jeans,7,1201,10,7566.3,Debit Card,5
+10647,10-05-2025,C1647,Customer 648,Female,34,Kolkata,Kolkata State,East,Sports,Bat,8,4705,5,35758,Debit Card,5
+10648,16-01-2025,C1648,Customer 649,Male,26,Bengaluru,Bengaluru State,South,Sports,Shoes,6,2430,10,13122,Credit Card,3
+10649,20-04-2025,C1649,Customer 650,Female,44,Kolkata,Kolkata State,East,Electronics,Keyboard,6,3217,0,19302,Credit Card,1
+10650,26-06-2025,C1650,Customer 651,Female,25,Mumbai,Mumbai State,West,Clothing,T-Shirt,5,4954,0,24770,Credit Card,2
+10651,26-05-2025,C1651,Customer 652,Female,35,Delhi,Delhi State,North,Sports,Bat,1,3875,15,3293.75,Cash,4
+10652,24-03-2025,C1652,Customer 653,Male,-4,Kolkata,Kolkata State,East,Electronics,Mouse,7,4772,15,28393.4,Cash,2
+10653,18-03-2025,C1653,Customer 654,Female,30,Lucknow,Lucknow State,North,Grocery,Oil,6,1465,20,7032,Debit Card,1
+10654,27-05-2025,C1654,Customer 655,Male,57,Kolkata,Kolkata State,East,Clothing,Jeans,5,489,10,2200.5,Cash,5
+10655,16-05-2025,C1655,Customer 656,Female,31,Delhi,Delhi State,North,Sports,Bat,5,651,20,2604,Credit Card,1
+10656,21-02-2025,C1656,Customer 657,Female,34,Lucknow,Lucknow State,North,Sports,Bat,7,4523,10,28494.9,Debit Card,5
+10657,08-05-2025,C1657,Customer 658,Female,35,Mumbai,Mumbai State,West,Electronics,Keyboard,9,1628,20,11721.6,Debit Card,5
+10658,03-03-2025,C1658,Customer 659,Female,45,Delhi,Delhi State,North,Sports,Football,6,3888,5,22161.6,Cash,3
+10659,07-03-2025,C1659,Customer 660,Male,43,Delhi,Delhi State,North,Clothing,Jeans,5,2516.5,5,11642.25,Upi,1
+10660,05-05-2025,C1660,Customer 661,Female,45,Mumbai,Mumbai State,West,Clothing,T-Shirt,4,2643,15,8986.2,Cash,2
+10661,18-06-2025,C1661,Customer 662,Male,59,Mumbai,Mumbai State,West,Furniture,Chair,1,2216,10,1994.4,Cash,4
+10662,15-04-2025,C1662,Customer 663,Male,43,Delhi,Delhi State,North,Electronics,Laptop,6,2541,0,15246,Upi,2
+10663,20-06-2025,C1663,Customer 664,Female,49,Delhi,Delhi State,North,Sports,Shoes,9,1088,20,7833.6,Cash,2
+10664,02-03-2025,C1664,Customer 665,Male,27,Kolkata,Kolkata State,East,Electronics,Mouse,6,4886,15,24918.6,Cash,2
+10665,15-01-2025,C1665,Customer 666,Female,62,Mumbai,Mumbai State,West,Furniture,Table,7,2183,10,12224.8,Cash,3
+10666,03-04-2025,C1666,Customer 667,Female,37,Kolkata,Kolkata State,East,Grocery,Milk,4,2375,5,9025,Cash,5
+10667,09-04-2025,C1667,Customer 668,Female,61,Delhi,Delhi State,North,Electronics,Keyboard,4,2172,20,6950.4,Cash,5
+10668,19-03-2025,C1668,Customer 669,Male,37,Mumbai,Mumbai State,West,Grocery,Milk,1,3319,10,2987.1,Upi,2
+10669,21-01-2025,C1669,Customer 670,Female,65,Bengaluru,Bengaluru State,South,Furniture,Sofa,7,377,10,2375.1,Debit Card,3
+10670,01-04-2025,C1670,Customer 671,Female,47,Bengaluru,Bengaluru State,South,Electronics,Laptop,5,4247,0,21235,Cash,1
+10671,21-02-2025,C1671,Customer 672,Female,38,Mumbai,Mumbai State,West,Grocery,Oil,3,125,15,318.75,Cash,1
+10672,23-03-2025,C1672,Customer 673,Female,65,Mumbai,Mumbai State,West,Clothing,Jacket,3,4966,15,12663.3,Upi,3
+10673,17-04-2025,C1673,Customer 674,Male,43,Mumbai,Mumbai State,West,Sports,Bat,5,1727,0,8635,Debit Card,5
+10674,29-04-2025,C1674,Customer 675,Female,62,Mumbai,Mumbai State,West,Electronics,Laptop,9,1973,0,17757,Upi,1
+10675,23-01-2025,C1675,Customer 676,Male,54,Bengaluru,Bengaluru State,South,Sports,Bat,10,2231,10,21194.5,Cash,1
+10676,22-02-2025,C1676,Customer 677,Female,36,Kolkata,Kolkata State,East,Grocery,Milk,8,1070,5,8132,Debit Card,4
+10677,23-06-2025,C1677,Customer 678,Female,29,Mumbai,Mumbai State,West,Grocery,Rice,10,1865,10,16785,Debit Card,2
+10678,05-04-2025,C1678,Customer 679,Female,23,Delhi,Delhi State,North,Furniture,Table,4,3794,5,14417.2,Cash,4
+10679,19-04-2025,C1679,Customer 680,Female,22,Mumbai,Mumbai State,West,Furniture,Sofa,7,1838,15,10936.1,Cash,5
+10680,05-06-2025,C1680,Customer 681,Male,18,Delhi,Delhi State,North,Electronics,Mouse,4,3957,10,14245.2,Credit Card,5
+10681,24-05-2025,C1681,Customer 682,Male,34,Kolkata,Kolkata State,East,Grocery,Milk,7,3138,5,20867.7,Upi,5
+10682,16-05-2025,C1682,Customer 683,Male,34,Bengaluru,Bengaluru State,South,Furniture,Table,3,834,10,2251.8,Cash,3
+10683,14-03-2025,C1683,Customer 684,Female,51,Delhi,Delhi State,North,Clothing,Jeans,5,3053,15,12975.25,Cash,4
+10684,18-06-2025,C1684,Customer 685,Female,21,Mumbai,Mumbai State,West,Furniture,Sofa,8,1339,20,8569.6,Upi,2
+10685,11-02-2025,C1685,Customer 686,Female,45,Delhi,Delhi State,North,Clothing,T-Shirt,1,3952,10,3556.8,Cash,4
+10686,07-05-2025,C1686,Customer 687,Male,25,Delhi,Delhi State,North,Grocery,Milk,9,4074,15,31166.1,Credit Card,1
+10687,25-05-2025,C1687,Customer 688,Male,55,Mumbai,Mumbai State,West,Furniture,Chair,3,4267,10,11520.9,Cash,5
+10688,23-06-2025,C1688,Customer 689,Female,19,Kolkata,Kolkata State,East,Clothing,Jeans,2,2116,15,3597.2,Credit Card,1
+10689,08-01-2025,C1689,Customer 690,Female,63,Bengaluru,Bengaluru State,South,Furniture,Sofa,2,2750,5,5225,Debit Card,4
+10690,17-06-2025,C1690,Customer 691,Female,38,Lucknow,Lucknow State,North,Sports,Shoes,1,2798,0,2798,Upi,2
+10691,04-06-2025,C1691,Customer 692,Male,43,Delhi,Delhi State,North,Furniture,Table,1,679,20,543.2,Credit Card,3
+10692,10-04-2025,C1692,Customer 693,Female,59,Mumbai,Mumbai State,West,Grocery,Rice,1,1805,5,1714.75,Upi,1
+10693,20-06-2025,C1693,Customer 694,Female,50,Lucknow,Lucknow State,North,Grocery,Milk,5,1175,10,5287.5,Upi,4
+10694,19-04-2025,C1694,Customer 695,Female,41,Bengaluru,Bengaluru State,South,Grocery,Milk,5,4712,20,18848,Upi,4
+10695,23-06-2025,C1695,Customer 696,Male,49,Bengaluru,Bengaluru State,South,Electronics,Laptop,9,2899,15,22177.35,Cash,3
+10696,02-02-2025,C1696,Customer 697,Female,33,Bengaluru,Bengaluru State,South,Grocery,Rice,8,2560,5,19456,Debit Card,3
+10697,28-01-2025,C1697,Customer 698,Female,44,Kolkata,Kolkata State,East,Electronics,Keyboard,2,469,20,750.4,Cash,4
+10698,09-05-2025,C1698,Customer 699,Male,65,Nan,Kolkata State,East,Furniture,Table,5,4896,10,24480,Debit Card,2
+10699,22-03-2025,C1699,Customer 700,Female,60,Mumbai,Mumbai State,West,Grocery,Rice,2,3509,10,6316.2,Debit Card,5
+10700,04-06-2025,C1700,Customer 701,Male,45,Lucknow,Lucknow State,North,Furniture,Chair,4,1616,0,6464,Cash,1
+10701,27-06-2025,C1701,Customer 702,Female,37,Bengaluru,Bengaluru State,South,Electronics,Laptop,3,4008,15,10220.4,Credit Card,4
+10702,29-01-2025,C1702,Customer 703,Male,19,Lucknow,Lucknow State,North,Electronics,Laptop,3,213,5,607.05,Upi,4
+10703,19-03-2025,C1703,Customer 704,Male,48,Mumbai,Mumbai State,West,Clothing,Jeans,9,1663,0,14967,Debit Card,1
+10704,06-01-2025,C1704,Customer 705,Male,30,Delhi,Delhi State,North,Clothing,T-Shirt,8,4073,15,27696.4,Credit Card,5
+10705,17-04-2025,C1705,Customer 706,Female,20,Bengaluru,Bengaluru State,South,Electronics,Mouse,1,941,10,799.85,Debit Card,4
+10706,16-01-2025,C1706,Customer 707,Male,45,Bengaluru,Bengaluru State,South,Sports,Shoes,10,4096,5,38912,Credit Card,5
+10707,07-05-2025,C1707,Customer 708,Female,46,Delhi,Delhi State,North,Furniture,Sofa,7,3977,0,27839,Debit Card,1
+10708,23-04-2025,C1708,Customer 709,Male,55,Mumbai,Mumbai State,West,Furniture,Sofa,4,3944,10,14198.4,Credit Card,5
+10709,01-05-2025,C1709,Customer 710,Male,36,Bengaluru,Bengaluru State,South,Clothing,Jeans,7,3514,10,22138.2,Cash,4
+10710,17-04-2025,C1710,Customer 711,Female,33,Mumbai,Mumbai State,West,Clothing,T-Shirt,3,4131,0,12393,Upi,5
+10711,14-02-2025,C1711,Customer 712,Male,22,Delhi,Delhi State,North,Electronics,Mouse,5,3024,5,14364,Credit Card,4
+10712,05-05-2025,C1712,Customer 713,Female,40,Delhi,Delhi State,North,Sports,Football,2,4703,5,8935.7,Cash,5
+10713,23-04-2025,C1713,Customer 714,Male,24,Lucknow,Lucknow State,North,Clothing,Jacket,9,953,0,8577,Cash,5
+10714,03-04-2025,C1714,Customer 715,Female,63,Delhi,Delhi State,North,Sports,Football,3,1067,5,3040.95,Debit Card,5
+10715,01-02-2025,C1715,Customer 716,Female,44,Bengaluru,Bengaluru State,South,Electronics,Laptop,6,2841,5,16193.7,Cash,2
+10716,10-03-2025,C1716,Customer 717,Female,41,Bengaluru,Bengaluru State,South,Furniture,Table,9,1502,0,13518,Upi,2
+10717,15-04-2025,C1717,Customer 718,Female,19,Kolkata,Kolkata State,East,Grocery,Rice,3,3612,15,9210.6,Debit Card,2
+10718,13-04-2025,C1718,Customer 719,Female,21,Delhi,Delhi State,North,Sports,Football,2,2871,10,5167.8,Debit Card,1
+10719,13-04-2025,C1719,Customer 720,Female,64,Mumbai,Mumbai State,West,Sports,Football,9,2522,15,19293.3,Credit Card,3
+10720,25-04-2025,C1720,Customer 721,Male,52,Delhi,Delhi State,North,Furniture,Sofa,10,1303,15,11075.5,Debit Card,3
+10721,27-03-2025,C1721,Customer 722,Male,51,Bengaluru,Bengaluru State,South,Clothing,Jeans,2,402,20,643.2,Credit Card,2
+10722,12-06-2025,C1722,Customer 723,Male,19,Delhi,Delhi State,North,Sports,Shoes,5,4370,10,19665,Credit Card,2
+10723,08-03-2025,C1723,Customer 724,Female,25,Lucknow,Lucknow State,North,Grocery,Oil,2,591,10,1063.8,Cash,1
+10724,02-03-2025,C1724,Customer 725,Male,40,Bengaluru,Bengaluru State,South,Furniture,Sofa,1,3812,10,3430.8,Credit Card,3
+10725,27-01-2025,C1725,Customer 726,Male,41,Kolkata,Kolkata State,East,Clothing,Jacket,7,4357,5,28974.05,Debit Card,1
+10726,19-04-2025,C1726,Customer 727,Female,31,Mumbai,Mumbai State,West,Grocery,Milk,2,855,0,1710,Cash,1
+10727,12-04-2025,C1727,Customer 728,Female,58,Lucknow,Lucknow State,North,Sports,Bat,10,4679,20,37432,Debit Card,4
+10728,05-05-2025,C1728,Customer 729,Female,26,Bengaluru,Bengaluru State,South,Grocery,Rice,3,4243,5,12092.55,Cash,2
+10729,31-01-2025,C1729,Customer 730,Female,25,Bengaluru,Bengaluru State,South,Grocery,Rice,3,4679,10,12633.3,Cash,3
+10730,06-04-2025,C1730,Customer 731,Female,37,Kolkata,Kolkata State,East,Furniture,Chair,9,1355,0,12195,Credit Card,4
+10731,20-03-2025,C1731,Customer 732,Male,29,Delhi,Delhi State,North,Clothing,T-Shirt,10,3555,0,35550,Debit Card,1
+10732,04-05-2025,C1732,Customer 733,Female,54,Delhi,Delhi State,North,Sports,Bat,2,466,15,792.2,Debit Card,3
+10733,10-05-2025,C1733,Customer 734,Female,46,Bengaluru,Bengaluru State,South,Grocery,Oil,10,1187,5,11276.5,Debit Card,2
+10734,01-03-2025,C1734,Customer 735,Female,52,Lucknow,Lucknow State,North,Electronics,Keyboard,10,3455,15,29367.5,Cash,4
+10735,24-05-2025,C1735,Customer 736,Male,59,Lucknow,Lucknow State,North,Electronics,Laptop,1,4785,10,4306.5,Cash,2
+10736,18-02-2025,C1736,Customer 737,Male,25,Kolkata,Kolkata State,East,Sports,Shoes,1,4771,20,3816.8,Upi,3
+10737,17-05-2025,C1737,Customer 738,Female,43,Lucknow,Lucknow State,North,Clothing,T-Shirt,10,3739,0,37390,Cash,4
+10738,16-05-2025,C1738,Customer 739,Female,34,Delhi,Delhi State,North,Furniture,Table,3,3499,0,10497,Cash,1
+10739,07-03-2025,C1739,Customer 740,Male,37,Delhi,Delhi State,North,Sports,Football,5,1279,5,6075.25,Debit Card,2
+10740,18-03-2025,C1740,Customer 741,Male,38,Delhi,Delhi State,North,Sports,Bat,3,322,0,966,Upi,4
+10741,03-03-2025,C1741,Customer 742,Male,49,Lucknow,Lucknow State,North,Furniture,Table,2,524,5,995.6,Debit Card,1
+10742,17-01-2025,C1742,Customer 743,Male,44,Lucknow,Lucknow State,North,Electronics,Mouse,8,4631,15,31490.8,Upi,1
+10743,16-06-2025,C1743,Customer 744,Female,54,Lucknow,Lucknow State,North,Sports,Shoes,2,2117,20,3387.2,Debit Card,4
+10744,13-02-2025,C1744,Customer 745,Female,53,Delhi,Delhi State,North,Sports,Football,3,3158,20,7579.2,Debit Card,1
+10745,16-01-2025,C1745,Customer 746,Female,56,Delhi,Delhi State,North,Grocery,Oil,5,1471,0,7355,Credit Card,4
+10746,11-02-2025,C1746,Customer 747,Male,37,Lucknow,Lucknow State,North,Clothing,Jacket,9,2404,0,21636,Cash,4
+10747,23-02-2025,C1747,Customer 748,Female,61,Delhi,Delhi State,North,Clothing,Jacket,9,2389,15,18275.85,Credit Card,3
+10748,28-04-2025,C1748,Customer 749,Female,19,Bengaluru,Bengaluru State,South,Furniture,Chair,6,2898,5,16518.6,Upi,1
+10749,23-05-2025,C1749,Customer 750,Female,43,Kolkata,Kolkata State,East,Grocery,Rice,1,1521,15,1292.85,Cash,1
+10750,07-04-2025,C1750,Customer 751,Female,42,Kolkata,Kolkata State,East,Electronics,Keyboard,8,1111,10,7999.2,Upi,1
+10751,26-02-2025,C1751,Customer 752,Male,35,Delhi,Delhi State,North,Grocery,Milk,4,3741,0,14964,Credit Card,2
+10752,07-05-2025,C1752,Customer 753,Male,-4,Delhi,Delhi State,North,Sports,Shoes,5,1911,5,9077.25,Debit Card,5
+10753,26-05-2025,C1753,Customer 754,Female,28,Mumbai,Mumbai State,West,Electronics,Laptop,7,1008,10,6350.4,Upi,5
+10754,17-01-2025,C1754,Customer 755,Female,54,Kolkata,Kolkata State,East,Sports,Football,2,4918,5,9344.2,Upi,5
+10755,06-03-2025,C1755,Customer 756,Female,-4,Lucknow,Lucknow State,North,Clothing,Jacket,1,4465,20,3572,Debit Card,1
+10756,30-04-2025,C1756,Customer 757,Female,51,Lucknow,Lucknow State,North,Grocery,Milk,5,1097,20,4388,Cash,2
+10757,02-01-2025,C1757,Customer 758,Male,39,Delhi,Delhi State,North,Furniture,Table,9,3777,10,30593.7,Cash,5
+10758,20-02-2025,C1758,Customer 759,Female,37,Delhi,Delhi State,North,Clothing,Jacket,7,709,5,4714.85,Cash,1
+10759,06-03-2025,C1759,Customer 760,Male,48,Delhi,Delhi State,North,Grocery,Milk,1,2516.5,10,4458.6,Upi,3
+10760,08-06-2025,C1760,Customer 761,Male,58,Delhi,Delhi State,North,Furniture,Sofa,4,697,20,2230.4,Debit Card,5
+10761,27-06-2025,C1761,Customer 762,Male,21,Delhi,Delhi State,North,Electronics,Laptop,1,3191,10,2871.9,Debit Card,1
+10762,23-06-2025,C1762,Customer 763,Male,-4,Lucknow,Lucknow State,North,Sports,Shoes,7,638,0,4466,Debit Card,4
+10763,09-04-2025,C1763,Customer 764,Female,57,Nan,Delhi State,North,Sports,Bat,4,186,10,632.4,Cash,3
+10764,28-01-2025,C1764,Customer 765,Male,56,Delhi,Delhi State,North,Grocery,Oil,6,4915,5,28015.5,Cash,5
+10765,18-04-2025,C1765,Customer 766,Female,29,Mumbai,Mumbai State,West,Sports,Football,9,2199,10,17811.9,Upi,2
+10766,12-05-2025,C1766,Customer 767,Female,37,Delhi,Delhi State,North,Electronics,Laptop,5,4888,15,20774,Upi,2
+10767,03-01-2025,C1767,Customer 768,Male,21,Bengaluru,Bengaluru State,South,Furniture,Sofa,6,2484,10,13413.6,Upi,5
+10768,13-06-2025,C1768,Customer 769,Male,39,Kolkata,Kolkata State,East,Electronics,Mouse,6,1700,5,9690,Upi,4
+10769,27-03-2025,C1769,Customer 770,Female,44,Bengaluru,Bengaluru State,South,Sports,Shoes,6,4838,20,23222.4,Credit Card,2
+10770,13-06-2025,C1770,Customer 771,Male,47,Delhi,Delhi State,North,Grocery,Rice,8,1897,0,15176,Upi,2
+10771,17-02-2025,C1771,Customer 772,Female,18,Bengaluru,Bengaluru State,South,Furniture,Sofa,7,1781,15,10596.95,Cash,3
+10772,19-02-2025,C1772,Customer 773,Female,20,Delhi,Delhi State,North,Sports,Football,3,2516.5,15,6324,Cash,2
+10773,28-03-2025,C1773,Customer 774,Male,29,Mumbai,Mumbai State,West,Furniture,Chair,4,2246,5,8534.8,Upi,1
+10774,17-06-2025,C1774,Customer 775,Female,31,Mumbai,Mumbai State,West,Furniture,Chair,1,1224,15,1040.4,Credit Card,4
+10775,22-04-2025,C1775,Customer 776,Male,25,Mumbai,Mumbai State,West,Furniture,Table,3,4416,20,10598.4,Upi,2
+10776,03-06-2025,C1776,Customer 777,Male,20,Mumbai,Mumbai State,West,Clothing,Jacket,7,3165,10,19939.5,Upi,5
+10777,02-02-2025,C1777,Customer 778,Female,31,Lucknow,Lucknow State,North,Clothing,Jeans,4,536,10,1929.6,Cash,4
+10778,06-04-2025,C1778,Customer 779,Female,29,Kolkata,Kolkata State,East,Electronics,Laptop,9,3279,20,23608.8,Credit Card,3
+10779,29-05-2025,C1779,Customer 780,Male,31,Kolkata,Kolkata State,East,Grocery,Oil,8,3981,10,28663.2,Upi,2
+10780,07-04-2025,C1780,Customer 781,Male,41,Bengaluru,Bengaluru State,South,Clothing,Jeans,4,2606,15,8860.4,Credit Card,5
+10781,01-04-2025,C1781,Customer 782,Male,47,Delhi,Delhi State,North,Clothing,T-Shirt,5,3741,20,14964,Credit Card,4
+10782,23-03-2025,C1782,Customer 783,Female,19,Bengaluru,Bengaluru State,South,Grocery,Milk,7,3110,15,18504.5,Upi,4
+10783,17-03-2025,C1783,Customer 784,Male,35,Mumbai,Mumbai State,West,Furniture,Sofa,2,3041,0,6082,Upi,1
+10784,27-03-2025,C1784,Customer 785,Female,34,Delhi,Delhi State,North,Electronics,Mouse,1,4573,5,4344.35,Credit Card,3
+10785,18-03-2025,C1785,Customer 786,Female,43,Mumbai,Mumbai State,West,Sports,Football,9,2239,0,20151,Debit Card,5
+10786,28-02-2025,C1786,Customer 787,Male,48,Delhi,Delhi State,North,Grocery,Oil,9,1322,15,10113.3,Upi,5
+10787,22-03-2025,C1787,Customer 788,Female,62,Kolkata,Kolkata State,East,Sports,Bat,8,2890,0,23120,Debit Card,2
+10788,28-05-2025,C1788,Customer 789,Female,65,Bengaluru,Bengaluru State,South,Grocery,Oil,1,3169,5,3010.55,Cash,4
+10789,26-06-2025,C1789,Customer 790,Female,38,Lucknow,Lucknow State,North,Furniture,Chair,7,3587,15,21342.65,Cash,5
+10790,05-06-2025,C1790,Customer 791,Female,42,Nan,Delhi State,North,Clothing,T-Shirt,6,4754,10,22819.2,Upi,4
+10791,26-03-2025,C1791,Customer 792,Female,58,Delhi,Delhi State,North,Sports,Bat,4,3989,0,15956,Credit Card,1
+10792,26-06-2025,C1792,Customer 793,Female,19,Mumbai,Mumbai State,West,Electronics,Keyboard,9,1555,0,13995,Upi,2
+10793,18-06-2025,C1793,Customer 794,Male,47,Delhi,Delhi State,North,Grocery,Milk,4,2009,10,7232.4,Cash,3
+10794,10-02-2025,C1794,Customer 795,Male,52,Kolkata,Kolkata State,East,Electronics,Laptop,6,3465,15,17671.5,Debit Card,4
+10795,21-04-2025,C1795,Customer 796,Female,28,Delhi,Delhi State,North,Grocery,Rice,3,1784,10,4816.8,Credit Card,5
+10796,02-01-2025,C1796,Customer 797,Female,22,Mumbai,Mumbai State,West,Sports,Shoes,8,2356,5,17905.6,Debit Card,5
+10797,29-04-2025,C1797,Customer 798,Male,-4,Mumbai,Mumbai State,West,Sports,Bat,10,4121,15,35028.5,Cash,3
+10798,14-02-2025,C1798,Customer 799,Male,29,Bengaluru,Bengaluru State,South,Furniture,Sofa,5,3303,20,13212,Debit Card,4
+10799,28-06-2025,C1799,Customer 800,Male,28,Bengaluru,Bengaluru State,South,Clothing,Jacket,10,882,15,7497,Credit Card,5
+10800,22-05-2025,C1800,Customer 801,Female,22,Lucknow,Lucknow State,North,Electronics,Keyboard,4,4142,15,14082.8,Cash,5
+10801,10-05-2025,C1801,Customer 802,Female,19,Lucknow,Lucknow State,North,Grocery,Milk,3,2170,5,6184.5,Cash,4
+10802,10-01-2025,C1802,Customer 803,Female,25,Bengaluru,Bengaluru State,South,Furniture,Sofa,7,1692,15,10067.4,Upi,3
+10803,18-06-2025,C1803,Customer 804,Female,26,Bengaluru,Bengaluru State,South,Grocery,Milk,2,776,20,1241.6,Debit Card,3
+10804,17-03-2025,C1804,Customer 805,Female,28,Mumbai,Mumbai State,West,Clothing,T-Shirt,10,923,5,8768.5,Cash,1
+10805,09-01-2025,C1805,Customer 806,Male,46,Lucknow,Lucknow State,North,Clothing,Jeans,6,1557,5,8874.9,Cash,5
+10806,03-06-2025,C1806,Customer 807,Male,42,Delhi,Delhi State,North,Grocery,Oil,5,3737,0,18685,Upi,2
+10807,08-01-2025,C1807,Customer 808,Female,30,Nan,Lucknow State,North,Clothing,T-Shirt,2,231,10,392.7,Cash,2
+10808,12-05-2025,C1808,Customer 809,Female,38,Delhi,Delhi State,North,Clothing,Jacket,3,460,15,1173,Upi,5
+10809,24-02-2025,C1809,Customer 810,Female,-4,Mumbai,Mumbai State,West,Sports,Bat,7,1089,5,7241.85,Upi,1
+10810,26-02-2025,C1810,Customer 811,Female,59,Bengaluru,Bengaluru State,North,Furniture,Chair,7,1842,15,10959.9,Credit Card,1
+10811,18-05-2025,C1811,Customer 812,Male,34,Delhi,Delhi State,North,Clothing,Jeans,5,4192,0,20960,Cash,5
+10812,12-06-2025,C1812,Customer 813,Female,60,Lucknow,Lucknow State,North,Grocery,Oil,3,2820,5,8037,Debit Card,1
+10813,11-05-2025,C1813,Customer 814,Male,50,Lucknow,Lucknow State,North,Electronics,Keyboard,10,3777,15,32104.5,Cash,2
+10814,04-03-2025,C1814,Customer 815,Male,21,Delhi,Delhi State,North,Sports,Football,5,2516.5,15,8653,Upi,3
+10815,14-06-2025,C1815,Customer 816,Male,64,Bengaluru,Bengaluru State,South,Furniture,Chair,3,3178,5,9057.3,Debit Card,3
+10816,15-06-2025,C1816,Customer 817,Male,32,Mumbai,Mumbai State,West,Furniture,Table,1,4366,15,3711.1,Credit Card,3
+10817,05-06-2025,C1817,Customer 818,Female,29,Nan,Mumbai State,West,Clothing,Jacket,1,2134,10,2027.3,Debit Card,1
+10818,22-02-2025,C1818,Customer 819,Male,29,Delhi,Delhi State,North,Grocery,Rice,4,526,5,1998.8,Upi,2
+10819,20-02-2025,C1819,Customer 820,Female,29,Kolkata,Kolkata State,East,Electronics,Mouse,8,2651,5,20147.6,Upi,3
+10820,21-01-2025,C1820,Customer 821,Female,42,Lucknow,Lucknow State,North,Sports,Bat,4,2327,15,7911.8,Upi,4
+10821,04-05-2025,C1821,Customer 822,Female,45,Bengaluru,Bengaluru State,South,Grocery,Oil,10,3650,5,34675,Cash,3
+10822,08-04-2025,C1822,Customer 823,Female,47,Kolkata,Kolkata State,East,Sports,Football,9,1539,10,12465.9,Credit Card,4
+10823,01-05-2025,C1823,Customer 824,Male,30,Kolkata,Kolkata State,East,Sports,Bat,2,2829,5,5375.1,Cash,1
+10824,06-04-2025,C1824,Customer 825,Female,37,Kolkata,Kolkata State,East,Furniture,Table,7,3506,15,20860.7,Cash,4
+10825,22-04-2025,C1825,Customer 826,Female,50,Nan,Delhi State,North,Electronics,Mouse,10,1430,10,13585,Debit Card,3
+10826,09-01-2025,C1826,Customer 827,Male,62,Delhi,Delhi State,North,Grocery,Milk,4,2085,15,7089,Upi,3
+10827,04-06-2025,C1827,Customer 828,Male,18,Kolkata,Kolkata State,East,Grocery,Oil,3,2183,5,6221.55,Cash,1
+10828,18-02-2025,C1828,Customer 829,Male,45,Bengaluru,Bengaluru State,South,Grocery,Oil,10,758,20,6064,Credit Card,3
+10829,16-04-2025,C1829,Customer 830,Male,24,Kolkata,Kolkata State,East,Sports,Shoes,7,4901,10,30876.3,Credit Card,2
+10830,13-02-2025,C1830,Customer 831,Male,24,Lucknow,Lucknow State,North,Clothing,Jacket,7,2623,0,18361,Cash,4
+10831,15-02-2025,C1831,Customer 832,Male,63,Kolkata,Kolkata State,East,Grocery,Oil,5,3630,5,17242.5,Upi,2
+10832,24-02-2025,C1832,Customer 833,Male,21,Bengaluru,Bengaluru State,South,Clothing,Jacket,2,3791,20,6065.6,Upi,2
+10833,21-01-2025,C1833,Customer 834,Male,42,Lucknow,Lucknow State,North,Grocery,Milk,10,994,5,9443,Cash,3
+10834,05-05-2025,C1834,Customer 835,Male,18,Delhi,Delhi State,North,Furniture,Chair,10,2023,15,17195.5,Cash,3
+10835,02-01-2025,C1835,Customer 836,Female,49,Delhi,Delhi State,North,Sports,Football,2,1829,20,2926.4,Debit Card,3
+10836,03-03-2025,C1836,Customer 837,Female,42,Kolkata,Kolkata State,East,Grocery,Milk,6,2910,10,15714,Cash,3
+10837,07-01-2025,C1837,Customer 838,Male,51,Lucknow,Lucknow State,North,Electronics,Laptop,8,3391,5,25771.6,Credit Card,2
+10838,19-06-2025,C1838,Customer 839,Male,58,Lucknow,Lucknow State,North,Grocery,Oil,8,4318,15,29362.4,Credit Card,1
+10839,05-06-2025,C1839,Customer 840,Female,65,Lucknow,Lucknow State,North,Electronics,Keyboard,6,3739,5,21312.3,Cash,3
+10840,05-06-2025,C1840,Customer 841,Male,51,Bengaluru,Bengaluru State,South,Grocery,Oil,2,3252,10,5853.6,Cash,2
+10841,25-04-2025,C1841,Customer 842,Female,60,Bengaluru,Bengaluru State,South,Electronics,Mouse,9,2516.5,5,33550.2,Upi,2
+10842,08-01-2025,C1842,Customer 843,Female,42,Mumbai,Mumbai State,West,Clothing,Jacket,2,964,15,1638.8,Credit Card,2
+10843,12-06-2025,C1843,Customer 844,Female,23,Lucknow,Lucknow State,North,Grocery,Oil,2,1212,20,1939.2,Credit Card,2
+10844,17-06-2025,C1844,Customer 845,Female,32,Kolkata,Kolkata State,East,Sports,Football,6,3188,15,16258.8,Upi,3
+10845,01-06-2025,C1845,Customer 846,Male,54,Delhi,Delhi State,North,Furniture,Chair,2,2516.5,10,1494,Credit Card,2
+10846,01-06-2025,C1846,Customer 847,Male,42,Lucknow,Lucknow State,North,Grocery,Oil,1,2646,0,2646,Cash,3
+10847,28-01-2025,C1847,Customer 848,Male,52,Lucknow,Lucknow State,North,Clothing,Jacket,10,4939,5,46920.5,Debit Card,3
+10848,03-06-2025,C1848,Customer 849,Male,65,Mumbai,Mumbai State,West,Furniture,Chair,8,3833,5,29130.8,Cash,5
+10849,03-05-2025,C1849,Customer 850,Male,49,Lucknow,Lucknow State,North,Furniture,Sofa,2,2340,20,3744,Credit Card,4
+10850,15-02-2025,C1850,Customer 851,Female,37,Delhi,Delhi State,North,Furniture,Chair,4,1943,0,7772,Upi,1
+10851,11-04-2025,C1851,Customer 852,Male,51,Kolkata,Kolkata State,East,Grocery,Milk,7,3978,10,25061.4,Credit Card,3
+10852,29-05-2025,C1852,Customer 853,Female,47,Mumbai,Mumbai State,West,Sports,Bat,2,1172,10,2109.6,Upi,5
+10853,23-02-2025,C1853,Customer 854,Male,65,Mumbai,Mumbai State,West,Grocery,Oil,8,2484,5,18878.4,Cash,3
+10854,23-06-2025,C1854,Customer 855,Male,24,Kolkata,Kolkata State,East,Electronics,Keyboard,3,3184,15,8119.2,Credit Card,4
+10855,22-04-2025,C1855,Customer 856,Female,33,Mumbai,Mumbai State,West,Electronics,Laptop,9,2872,20,20678.4,Cash,1
+10856,17-06-2025,C1856,Customer 857,Female,62,Mumbai,Mumbai State,West,Grocery,Milk,5,4983,5,23669.25,Cash,4
+10857,31-01-2025,C1857,Customer 858,Male,25,Bengaluru,Bengaluru State,South,Furniture,Sofa,8,3109,0,24872,Debit Card,5
+10858,12-03-2025,C1858,Customer 859,Male,55,Mumbai,Mumbai State,West,Electronics,Keyboard,10,4790,15,40715,Upi,4
+10859,25-03-2025,C1859,Customer 860,Male,43,Bengaluru,Bengaluru State,South,Grocery,Milk,10,1125,0,11250,Cash,4
+10860,30-05-2025,C1860,Customer 861,Male,31,Kolkata,Kolkata State,East,Sports,Shoes,8,623,20,3987.2,Cash,2
+10861,01-02-2025,C1861,Customer 862,Male,54,Kolkata,Kolkata State,East,Clothing,T-Shirt,9,3763,10,30480.3,Upi,2
+10862,10-05-2025,C1862,Customer 863,Female,52,Delhi,Delhi State,North,Sports,Bat,1,793,0,793,Upi,4
+10863,18-06-2025,C1863,Customer 864,Female,26,Delhi,Delhi State,North,Clothing,Jeans,1,4355,10,3919.5,Debit Card,3
+10864,26-06-2025,C1864,Customer 865,Male,33,Kolkata,Kolkata State,East,Furniture,Sofa,9,4282,5,36611.1,Cash,2
+10865,01-06-2025,C1865,Customer 866,Female,26,Mumbai,Mumbai State,West,Furniture,Chair,3,4622,5,13172.7,Debit Card,1
+10866,27-04-2025,C1866,Customer 867,Female,61,Kolkata,Kolkata State,East,Furniture,Table,7,1437,15,8550.15,Debit Card,2
+10867,25-05-2025,C1867,Customer 868,Male,44,Kolkata,Kolkata State,East,Clothing,T-Shirt,5,1678,10,7551,Upi,3
+10868,11-03-2025,C1868,Customer 869,Male,61,Bengaluru,Bengaluru State,South,Grocery,Rice,10,2127,0,21270,Debit Card,1
+10869,27-02-2025,C1869,Customer 870,Male,24,Lucknow,Lucknow State,North,Electronics,Mouse,6,2338,5,13326.6,Debit Card,2
+10870,31-05-2025,C1870,Customer 871,Male,51,Bengaluru,Bengaluru State,South,Electronics,Laptop,3,4412,10,11912.4,Credit Card,5
+10871,13-02-2025,C1871,Customer 872,Female,29,Lucknow,Lucknow State,North,Sports,Bat,10,911,0,9110,Credit Card,5
+10872,08-03-2025,C1872,Customer 873,Male,60,Kolkata,Kolkata State,East,Sports,Bat,8,4952,5,37635.2,Upi,2
+10873,05-03-2025,C1873,Customer 874,Female,63,Bengaluru,Bengaluru State,South,Sports,Shoes,5,533,10,2398.5,Debit Card,2
+10874,20-04-2025,C1874,Customer 875,Male,37,Bengaluru,Bengaluru State,South,Furniture,Table,9,2449,10,19836.9,Cash,3
+10875,24-01-2025,C1875,Customer 876,Male,23,Bengaluru,Bengaluru State,South,Furniture,Chair,2,728,5,1383.2,Credit Card,5
+10876,08-05-2025,C1876,Customer 877,Male,43,Bengaluru,Bengaluru State,South,Electronics,Mouse,9,1217,15,9310.05,Cash,5
+10877,04-03-2025,C1877,Customer 878,Male,56,Mumbai,Mumbai State,West,Electronics,Keyboard,7,4477,10,28205.1,Debit Card,2
+10878,12-05-2025,C1878,Customer 879,Male,45,Kolkata,Kolkata State,East,Clothing,T-Shirt,2,3106,5,5901.4,Debit Card,4
+10879,31-01-2025,C1879,Customer 880,Female,48,Mumbai,Mumbai State,West,Furniture,Chair,6,2146,20,10300.8,Credit Card,3
+10880,20-03-2025,C1880,Customer 881,Male,47,Mumbai,Mumbai State,West,Electronics,Keyboard,10,3324,5,31578,Cash,1
+10881,01-04-2025,C1881,Customer 882,Male,-4,Nan,Lucknow State,North,Electronics,Keyboard,8,2791,10,20095.2,Upi,4
+10882,22-01-2025,C1882,Customer 883,Male,44,Lucknow,Lucknow State,North,Electronics,Laptop,7,4130,5,27464.5,Cash,4
+10883,12-04-2025,C1883,Customer 884,Female,41,Delhi,Delhi State,North,Clothing,Jacket,5,1952,15,8296,Debit Card,2
+10884,05-02-2025,C1884,Customer 885,Female,18,Kolkata,Kolkata State,East,Furniture,Chair,8,3699,5,28112.4,Credit Card,2
+10885,18-04-2025,C1885,Customer 886,Female,20,Delhi,Delhi State,North,Clothing,Jeans,1,1195,15,1015.75,Upi,2
+10886,07-05-2025,C1886,Customer 887,Male,38,Bengaluru,Bengaluru State,South,Furniture,Chair,7,4106,20,22993.6,Debit Card,5
+10887,09-02-2025,C1887,Customer 888,Male,61,Bengaluru,Bengaluru State,South,Clothing,T-Shirt,2,273,5,518.7,Upi,1
+10888,16-03-2025,C1888,Customer 889,Female,23,Lucknow,Lucknow State,North,Grocery,Oil,1,3658,15,3109.3,Debit Card,2
+10889,13-03-2025,C1889,Customer 890,Female,62,Kolkata,Kolkata State,East,Clothing,Jacket,9,1630,5,13936.5,Upi,4
+10890,16-02-2025,C1890,Customer 891,Male,32,Mumbai,Mumbai State,West,Grocery,Oil,2,4215,20,6744,Cash,2
+10891,05-01-2025,C1891,Customer 892,Male,23,Bengaluru,Bengaluru State,South,Electronics,Mouse,4,1297,15,4409.8,Cash,4
+10892,20-04-2025,C1892,Customer 893,Male,50,Bengaluru,Bengaluru State,South,Sports,Bat,4,1916,10,6897.6,Debit Card,1
+10893,18-04-2025,C1893,Customer 894,Female,21,Lucknow,Lucknow State,North,Electronics,Mouse,6,2398,10,12949.2,Upi,1
+10894,01-05-2025,C1894,Customer 895,Male,45,Delhi,Delhi State,North,Electronics,Keyboard,6,1836,10,9914.4,Upi,3
+10895,21-06-2025,C1895,Customer 896,Male,39,Bengaluru,Bengaluru State,South,Furniture,Table,5,1013,0,5065,Credit Card,3
+10896,23-02-2025,C1896,Customer 897,Female,23,Kolkata,Kolkata State,East,Sports,Shoes,6,2051,10,11075.4,Cash,2
+10897,30-06-2025,C1897,Customer 898,Male,22,Kolkata,Kolkata State,East,Electronics,Laptop,10,1660,5,15770,Credit Card,3
+10898,19-02-2025,C1898,Customer 899,Female,53,Bengaluru,Bengaluru State,South,Clothing,Jacket,3,458,5,1305.3,Credit Card,3
+10899,15-05-2025,C1899,Customer 900,Male,28,Bengaluru,Bengaluru State,South,Electronics,Mouse,2,4055,15,6893.5,Credit Card,3
+10900,07-05-2025,C1900,Customer 901,Male,28,Lucknow,Lucknow State,North,Electronics,Keyboard,1,1658,15,1409.3,Debit Card,5
+10901,17-02-2025,C1901,Customer 902,Male,54,Bengaluru,Bengaluru State,South,Sports,Bat,7,2324,5,15454.6,Upi,5
+10902,19-03-2025,C1902,Customer 903,Female,63,Delhi,Delhi State,North,Sports,Bat,9,4401,10,35648.1,Credit Card,5
+10903,16-03-2025,C1903,Customer 904,Male,35,Delhi,Delhi State,North,Clothing,T-Shirt,1,4470,5,4246.5,Upi,3
+10904,16-06-2025,C1904,Customer 905,Female,38,Delhi,Delhi State,North,Clothing,T-Shirt,9,1051,0,9459,Cash,5
+10905,15-01-2025,C1905,Customer 906,Male,40,Lucknow,Lucknow State,North,Clothing,Jeans,10,2515,10,22635,Upi,3
+10906,26-06-2025,C1906,Customer 907,Female,58,Mumbai,Mumbai State,West,Furniture,Chair,9,4878,0,43902,Upi,4
+10907,09-02-2025,C1907,Customer 908,Male,64,Mumbai,Mumbai State,West,Furniture,Table,4,4864,15,16537.6,Debit Card,3
+10908,17-02-2025,C1908,Customer 909,Male,54,Nan,Mumbai State,West,Grocery,Rice,8,1586,10,10784.8,Debit Card,2
+10909,25-06-2025,C1909,Customer 910,Male,-4,Lucknow,Lucknow State,North,Electronics,Mouse,3,1555,15,3965.25,Upi,3
+10910,05-02-2025,C1910,Customer 911,Male,56,Bengaluru,Bengaluru State,South,Clothing,Jeans,7,921,20,5157.6,Cash,4
+10911,05-03-2025,C1911,Customer 912,Female,27,Bengaluru,Bengaluru State,South,Electronics,Laptop,1,458,5,435.1,Cash,1
+10912,05-02-2025,C1912,Customer 913,Female,28,Delhi,Delhi State,North,Sports,Shoes,6,796,5,4537.2,Credit Card,3
+10913,10-06-2025,C1913,Customer 914,Male,19,Bengaluru,Bengaluru State,South,Clothing,T-Shirt,1,4552,10,4096.8,Cash,1
+10914,01-01-2025,C1914,Customer 915,Male,32,Kolkata,Kolkata State,East,Furniture,Chair,9,3502,5,29942.1,Debit Card,4
+10915,25-06-2025,C1915,Customer 916,Male,49,Mumbai,Mumbai State,West,Furniture,Sofa,5,1950,15,8287.5,Upi,1
+10916,27-03-2025,C1916,Customer 917,Female,23,Mumbai,Mumbai State,West,Electronics,Mouse,6,724,20,3475.2,Cash,5
+10917,16-02-2025,C1917,Customer 918,Female,27,Mumbai,Mumbai State,West,Clothing,Jeans,9,2843,20,20469.6,Credit Card,5
+10918,09-03-2025,C1918,Customer 919,Male,18,Lucknow,Lucknow State,North,Furniture,Chair,5,4189,10,18850.5,Upi,2
+10919,29-01-2025,C1919,Customer 920,Female,64,Lucknow,Lucknow State,North,Clothing,Jeans,8,4019,0,32152,Credit Card,2
+10920,23-03-2025,C1920,Customer 921,Female,48,Delhi,Delhi State,North,Furniture,Chair,3,3254,10,8785.8,Debit Card,5
+10921,21-05-2025,C1921,Customer 922,Female,52,Lucknow,Lucknow State,North,Clothing,Jacket,4,3239,15,11012.6,Upi,4
+10922,27-06-2025,C1922,Customer 923,Male,62,Delhi,Delhi State,North,Sports,Shoes,7,4416,20,24729.6,Cash,2
+10923,02-05-2025,C1923,Customer 924,Male,21,Lucknow,Lucknow State,North,Electronics,Laptop,1,3068,20,2454.4,Credit Card,3
+10924,04-03-2025,C1924,Customer 925,Male,21,Mumbai,Mumbai State,West,Furniture,Table,3,4617,15,11773.35,Cash,1
+10925,14-01-2025,C1925,Customer 926,Male,60,Mumbai,Mumbai State,West,Grocery,Oil,1,3579,10,3221.1,Cash,4
+10926,21-01-2025,C1926,Customer 927,Male,18,Kolkata,Kolkata State,East,Clothing,T-Shirt,3,3092,5,8812.2,Debit Card,2
+10927,01-05-2025,C1927,Customer 928,Female,46,Mumbai,Mumbai State,West,Grocery,Oil,3,4420,10,11934,Cash,3
+10928,11-02-2025,C1928,Customer 929,Female,45,Delhi,Delhi State,North,Clothing,T-Shirt,1,1521,20,1216.8,Debit Card,5
+10929,10-02-2025,C1929,Customer 930,Male,51,Lucknow,Lucknow State,North,Sports,Shoes,5,1962,15,8338.5,Debit Card,2
+10930,17-02-2025,C1930,Customer 931,Male,62,Mumbai,Mumbai State,West,Grocery,Oil,1,1893,15,1609.05,Debit Card,4
+10931,15-06-2025,C1931,Customer 932,Male,35,Lucknow,Lucknow State,North,Grocery,Milk,3,547,10,1476.9,Cash,1
+10932,14-03-2025,C1932,Customer 933,Male,22,Delhi,Delhi State,North,Furniture,Sofa,6,329,5,1875.3,Upi,5
+10933,03-03-2025,C1933,Customer 934,Male,54,Delhi,Delhi State,North,Furniture,Chair,9,1752,0,15768,Cash,5
+10934,03-01-2025,C1934,Customer 935,Female,43,Bengaluru,Bengaluru State,South,Electronics,Laptop,6,863,10,4660.2,Upi,3
+10935,09-05-2025,C1935,Customer 936,Male,19,Bengaluru,Bengaluru State,South,Furniture,Chair,2,2814,15,4783.8,Debit Card,4
+10936,21-01-2025,C1936,Customer 937,Male,63,Kolkata,Kolkata State,East,Electronics,Mouse,3,1341,15,3419.55,Upi,2
+10937,25-04-2025,C1937,Customer 938,Female,36,Mumbai,Mumbai State,West,Clothing,Jacket,9,4386,10,35526.6,Credit Card,5
+10938,06-06-2025,C1938,Customer 939,Male,27,Bengaluru,Bengaluru State,South,Electronics,Keyboard,7,2058,5,13685.7,Debit Card,1
+10939,25-01-2025,C1939,Customer 940,Female,28,Delhi,Delhi State,North,Clothing,Jeans,9,814,15,6227.1,Credit Card,2
+10940,19-01-2025,C1940,Customer 941,Female,34,Delhi,Delhi State,North,Furniture,Sofa,6,2994,0,17964,Debit Card,3
+10941,04-04-2025,C1941,Customer 942,Female,44,Bengaluru,Bengaluru State,South,Clothing,T-Shirt,10,4099,0,40990,Upi,4
+10942,24-06-2025,C1942,Customer 943,Female,34,Lucknow,Lucknow State,North,Sports,Shoes,6,3161,0,18966,Cash,5
+10943,27-01-2025,C1943,Customer 944,Female,28,Delhi,Delhi State,North,Clothing,Jacket,9,165,5,1410.75,Debit Card,1
+10944,30-04-2025,C1944,Customer 945,Female,24,Mumbai,Mumbai State,West,Grocery,Milk,2,2516.5,15,5028.6,Cash,2
+10945,17-01-2025,C1945,Customer 946,Female,56,Delhi,Delhi State,North,Grocery,Milk,4,3389,10,12200.4,Debit Card,2
+10946,09-02-2025,C1946,Customer 947,Male,58,Bengaluru,Bengaluru State,South,Electronics,Mouse,8,413,20,2643.2,Upi,3
+10947,21-04-2025,C1947,Customer 948,Male,21,Kolkata,Kolkata State,East,Electronics,Keyboard,7,611,10,3849.3,Upi,1
+10948,18-01-2025,C1948,Customer 949,Female,23,Bengaluru,Bengaluru State,South,Furniture,Table,3,784,5,2234.4,Credit Card,4
+10949,24-01-2025,C1949,Customer 950,Female,37,Bengaluru,Bengaluru State,South,Sports,Football,5,1607,0,8035,Upi,2
+10950,28-06-2025,C1950,Customer 951,Female,62,Lucknow,Lucknow State,North,Grocery,Milk,8,4486,5,34093.6,Debit Card,1
+10951,07-02-2025,C1951,Customer 952,Female,18,Kolkata,Kolkata State,East,Sports,Football,2,4838,20,7740.8,Upi,4
+10952,14-05-2025,C1952,Customer 953,Male,46,Mumbai,Mumbai State,West,Grocery,Milk,2,3429,10,6172.2,Upi,4
+10953,28-06-2025,C1953,Customer 954,Male,56,Kolkata,Kolkata State,East,Electronics,Laptop,4,1637,15,5565.8,Debit Card,2
+10954,04-04-2025,C1954,Customer 955,Female,37,Lucknow,Lucknow State,North,Clothing,T-Shirt,10,217,10,1953,Cash,4
+10955,20-04-2025,C1955,Customer 956,Female,25,Bengaluru,Bengaluru State,South,Grocery,Milk,6,2516.5,20,14328,Upi,4
+10956,19-05-2025,C1956,Customer 957,Female,36,Bengaluru,Bengaluru State,South,Furniture,Chair,9,2516.5,5,42519.15,Debit Card,3
+10957,07-06-2025,C1957,Customer 958,Male,49,Kolkata,Kolkata State,East,Electronics,Laptop,2,834,0,1668,Cash,4
+10958,27-02-2025,C1958,Customer 959,Female,25,Nan,Kolkata State,East,Sports,Football,5,3545,10,16838.75,Upi,4
+10959,06-04-2025,C1959,Customer 960,Female,35,Delhi,Delhi State,North,Furniture,Table,7,3342,0,23394,Credit Card,3
+10960,07-01-2025,C1960,Customer 961,Female,51,Bengaluru,Bengaluru State,South,Clothing,T-Shirt,7,367,0,2569,Credit Card,3
+10961,19-02-2025,C1961,Customer 962,Female,21,Mumbai,Mumbai State,West,Sports,Bat,4,4652,15,15816.8,Debit Card,2
+10962,22-04-2025,C1962,Customer 963,Male,63,Bengaluru,Bengaluru State,South,Clothing,Jeans,6,4337,5,24720.9,Upi,5
+10963,24-03-2025,C1963,Customer 964,Male,23,Delhi,Delhi State,North,Sports,Bat,5,4629,5,21987.75,Cash,4
+10964,27-05-2025,C1964,Customer 965,Male,65,Delhi,Delhi State,North,Sports,Football,1,4553,0,4553,Upi,4
+10965,18-05-2025,C1965,Customer 966,Female,34,Lucknow,Lucknow State,North,Clothing,T-Shirt,4,2532,5,9621.6,Cash,3
+10966,29-01-2025,C1966,Customer 967,Male,24,Delhi,Delhi State,North,Clothing,Jacket,1,4846,0,4846,Upi,3
+10967,23-02-2025,C1967,Customer 968,Male,49,Lucknow,Lucknow State,North,Clothing,T-Shirt,2,4148,10,7466.4,Cash,4
+10968,07-04-2025,C1968,Customer 969,Female,28,Delhi,Delhi State,North,Grocery,Oil,2,1822,15,3097.4,Upi,3
+10969,29-03-2025,C1969,Customer 970,Female,57,Delhi,Delhi State,North,Clothing,Jacket,10,357,0,3570,Cash,2
+10970,06-01-2025,C1970,Customer 971,Male,31,Kolkata,Kolkata State,East,Furniture,Chair,4,342,20,1094.4,Credit Card,1
+10971,27-06-2025,C1971,Customer 972,Female,35,Mumbai,Mumbai State,North,Electronics,Mouse,3,1900,0,5700,Debit Card,2
+10972,07-05-2025,C1972,Customer 973,Female,30,Delhi,Delhi State,North,Furniture,Sofa,9,2511,15,19209.15,Credit Card,2
+10973,21-03-2025,C1973,Customer 974,Male,64,Mumbai,Mumbai State,West,Furniture,Table,2,4881,20,7809.6,Debit Card,4
+10974,28-01-2025,C1974,Customer 975,Female,45,Bengaluru,Bengaluru State,South,Grocery,Oil,5,2711,20,10844,Upi,5
+10975,09-01-2025,C1975,Customer 976,Female,55,Lucknow,Lucknow State,North,Furniture,Sofa,2,3781,5,7183.9,Debit Card,3
+10976,16-02-2025,C1976,Customer 977,Female,29,Kolkata,Kolkata State,East,Sports,Bat,7,345,0,2415,Credit Card,2
+10977,22-03-2025,C1977,Customer 978,Male,38,Delhi,Delhi State,North,Clothing,Jacket,6,3147,5,17937.9,Cash,3
+10978,17-01-2025,C1978,Customer 979,Female,56,Mumbai,Mumbai State,West,Grocery,Oil,6,2005,20,9624,Upi,3
+10979,15-06-2025,C1979,Customer 980,Female,38,Mumbai,Mumbai State,West,Electronics,Keyboard,5,712,20,2848,Credit Card,2
+10980,18-04-2025,C1980,Customer 981,Male,46,Mumbai,Mumbai State,West,Electronics,Mouse,8,483,10,3477.6,Upi,5
+10981,14-03-2025,C1981,Customer 982,Male,47,Lucknow,Lucknow State,North,Sports,Bat,4,4821,0,19284,Credit Card,2
+10982,15-06-2025,C1982,Customer 983,Male,48,Bengaluru,Bengaluru State,South,Electronics,Keyboard,9,420,10,3402,Cash,4
+10983,23-05-2025,C1983,Customer 984,Female,57,Lucknow,Lucknow State,North,Furniture,Table,6,3379,0,20274,Cash,4
+10984,27-01-2025,C1984,Customer 985,Male,21,Lucknow,Lucknow State,North,Grocery,Milk,2,3163,20,5060.8,Cash,2
+10985,23-01-2025,C1985,Customer 986,Female,52,Delhi,Delhi State,North,Furniture,Sofa,7,1954,5,12994.1,Cash,1
+10986,09-03-2025,C1986,Customer 987,Female,35,Lucknow,Lucknow State,North,Electronics,Laptop,1,2592,0,2592,Upi,2
+10987,30-05-2025,C1987,Customer 988,Female,60,Kolkata,Kolkata State,East,Grocery,Rice,3,2715,5,7737.75,Cash,5
+10988,24-03-2025,C1988,Customer 989,Female,32,Kolkata,Kolkata State,East,Clothing,Jacket,8,4114,10,29620.8,Cash,3
+10989,27-06-2025,C1989,Customer 990,Male,49,Lucknow,Lucknow State,North,Electronics,Mouse,9,2085,5,17826.75,Cash,2
+10990,27-01-2025,C1990,Customer 991,Male,55,Delhi,Delhi State,North,Clothing,Jeans,7,1639,15,9752.05,Credit Card,3
+10991,04-04-2025,C1991,Customer 992,Female,57,Bengaluru,Bengaluru State,South,Clothing,Jacket,2,1165,5,2213.5,Upi,4
+10992,28-05-2025,C1992,Customer 993,Male,27,Mumbai,Mumbai State,West,Electronics,Mouse,7,1445,10,9103.5,Debit Card,1
+10993,08-01-2025,C1993,Customer 994,Female,40,Delhi,Delhi State,North,Clothing,T-Shirt,8,1632,10,11750.4,Credit Card,1
+10994,12-04-2025,C1994,Customer 995,Female,50,Kolkata,Kolkata State,East,Electronics,Mouse,7,1837,5,12216.05,Credit Card,1
+10995,19-04-2025,C1995,Customer 996,Female,30,Bengaluru,Bengaluru State,South,Furniture,Table,2,502,15,853.4,Debit Card,2
+10996,21-04-2025,C1996,Customer 997,Male,59,Nan,Kolkata State,East,Furniture,Sofa,10,4143,10,33144,Upi,1
+10997,03-03-2025,C1997,Customer 998,Male,35,Mumbai,Mumbai State,West,Electronics,Laptop,1,4812,10,4330.8,Upi,5
+10998,07-05-2025,C1998,Customer 999,Male,31,Bengaluru,Bengaluru State,South,Grocery,Milk,2,1901,10,3421.8,Credit Card,3
+10999,09-05-2025,C1999,Customer 1000,Female,65,Kolkata,Kolkata State,East,Furniture,Sofa,1,872,5,828.4,Credit Card,2
